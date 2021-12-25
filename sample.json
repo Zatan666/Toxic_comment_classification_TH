@@ -1,0 +1,3211 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "lxzvNDVu0P8e6rLau7QubnZ767A",
+  "nextPageToken": "QURTSl9pMkhMYTZ1X3ZRWmJYMUlLZ3hHNzh5RHQwdWJDNXdBOEFLRlpiRi1XOWVMNnNwR05Gd3BaV3RkY2tybUxzcVRzZTQzem9jQklfSQ==",
+  "pageInfo": {
+    "totalResults": 100,
+    "resultsPerPage": 100
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "77ap9vT45ccYUMk0ahocN0CyoPw",
+      "id": "Ugw0Erx5QlTU-nY4QlF4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "n1n2onmMmdl3kfjAaBbe199kKdY",
+          "id": "Ugw0Erx5QlTU-nY4QlF4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "มนุษย์ขึ้นชื่อว่าเป็นสัตว์มีสติปัญญา!!!<br>แต่!!!ก็ไม่ใช่ทุกคน!!!  <br>(มีครั้งนึงผมเคยเกือบโดนรับน้อง   แต่โชคดีที่ตอนนั้นผมเอามีดพับไปด้วย  เอาไว้ป้องกันตัวอยู่ตลอดเวลา แต่ก็ไม่เคยคิดว่าจะต้องได้ใช้มันจริงๆ!!! ว่าส่วนใหญ่ก็เอาไปปอกผลไม้   แต่พอมีรุ่นพี่จะมารับน้อง   ผมนี่รู้สึกเซ็งเลย!!!  ผมโดนไปหนึ่งที   แล้วนั้นผมก็รู้ตัวว่า โอเคต้องเอาจริงแล้ว   เลยหยิบมีดพกปอกผลไม้ที่พกติดตัวไว้ตลอดเวลา   เอาออกมาแล้วฝันดีที่แขนของ   ไอ้หัวโจกมันชื่ออะไรนะจำชื่อไม่ได้ไม่อยากจะจำด้วย!!! ไป 1 ที    แค่นั้นแหละ   อีก 4ก็ทำท่าจะเข้ามาล้อมเลย     ตอนนั้นก็เอามีดชี้ไปด้านหน้า  แล้วก็ค่อยๆถอย  พอดีไม่ไกลมีครูผ่านมาพอดี   ก็เลยใช้จังหวะนั้นรีบวิ่งก็ไปฟ้องครู     หลังจากเหตุการณ์นั้นก็     เข้าห้องผู้ปกครอง  เพื่อนเล่าเหตุการณ์มันเกิดอะไรขึ้นพร้อมกับดูกล้องวงจรปิดแถวนั้น     นี่แหละเป็นการรับน้องผมเจอเพียงครั้งเดียวในชีวิต    ในการย้ายเข้าไปในโรงเรียนใหม่  และผมก็รู้ว่า    .ต้องหาอะไรที่มันใหญ่กว่ามีดพกหน่อย.    ขอย้ำเรื่องนี้เป็นเรื่องจริงไม่ใช่เรื่องตลกแต่อย่างใด    ขอไม่เอ่ยรายละเอียดเกี่ยวกับโรงเรียน   และตัวบุคคลด้วย!!!! )",
+            "textOriginal": "มนุษย์ขึ้นชื่อว่าเป็นสัตว์มีสติปัญญา!!!\nแต่!!!ก็ไม่ใช่ทุกคน!!!  \n(มีครั้งนึงผมเคยเกือบโดนรับน้อง   แต่โชคดีที่ตอนนั้นผมเอามีดพับไปด้วย  เอาไว้ป้องกันตัวอยู่ตลอดเวลา แต่ก็ไม่เคยคิดว่าจะต้องได้ใช้มันจริงๆ!!! ว่าส่วนใหญ่ก็เอาไปปอกผลไม้   แต่พอมีรุ่นพี่จะมารับน้อง   ผมนี่รู้สึกเซ็งเลย!!!  ผมโดนไปหนึ่งที   แล้วนั้นผมก็รู้ตัวว่า โอเคต้องเอาจริงแล้ว   เลยหยิบมีดพกปอกผลไม้ที่พกติดตัวไว้ตลอดเวลา   เอาออกมาแล้วฝันดีที่แขนของ   ไอ้หัวโจกมันชื่ออะไรนะจำชื่อไม่ได้ไม่อยากจะจำด้วย!!! ไป 1 ที    แค่นั้นแหละ   อีก 4ก็ทำท่าจะเข้ามาล้อมเลย     ตอนนั้นก็เอามีดชี้ไปด้านหน้า  แล้วก็ค่อยๆถอย  พอดีไม่ไกลมีครูผ่านมาพอดี   ก็เลยใช้จังหวะนั้นรีบวิ่งก็ไปฟ้องครู     หลังจากเหตุการณ์นั้นก็     เข้าห้องผู้ปกครอง  เพื่อนเล่าเหตุการณ์มันเกิดอะไรขึ้นพร้อมกับดูกล้องวงจรปิดแถวนั้น     นี่แหละเป็นการรับน้องผมเจอเพียงครั้งเดียวในชีวิต    ในการย้ายเข้าไปในโรงเรียนใหม่  และผมก็รู้ว่า    .ต้องหาอะไรที่มันใหญ่กว่ามีดพกหน่อย.    ขอย้ำเรื่องนี้เป็นเรื่องจริงไม่ใช่เรื่องตลกแต่อย่างใด    ขอไม่เอ่ยรายละเอียดเกี่ยวกับโรงเรียน   และตัวบุคคลด้วย!!!! )",
+            "authorDisplayName": "⚡Skrill⚡",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/oSE25jnv8FOnLdld7RSQFBZNMB5sNiCGvKbHOtkH10Sbn9YW6dh2uDHigjOwWsux-TBvYoztadw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCF4Ccn6w6CfHmQ2RnwTXm-w",
+            "authorChannelId": {
+              "value": "UCF4Ccn6w6CfHmQ2RnwTXm-w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-10-11T23:38:08Z",
+            "updatedAt": "2021-10-11T23:38:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xi_LlIzouuU6dWzLNCXFkhALpeA",
+      "id": "Ugx8r3aY5a5wOJJNPh54AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_tw9hkghBy9gzTuuG7RdW53sApw",
+          "id": "Ugx8r3aY5a5wOJJNPh54AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ผมขอถามหน่อยครับ 1รับน้องมีขึ้นเพื่ออะไร 2รับน้องแล้วมันดียังไง 3มีเหตุผลอะไรถึงต้องมีการรับน้อง ผมละสงสัยจริงๆ",
+            "textOriginal": "ผมขอถามหน่อยครับ 1รับน้องมีขึ้นเพื่ออะไร 2รับน้องแล้วมันดียังไง 3มีเหตุผลอะไรถึงต้องมีการรับน้อง ผมละสงสัยจริงๆ",
+            "authorDisplayName": "Ksbdos Khsuf",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTN4jcqK-hNN4jam4sebJBhvBbeC_bdAlqR_w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC_zui74gKTr72xzHPv-JRcQ",
+            "authorChannelId": {
+              "value": "UC_zui74gKTr72xzHPv-JRcQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-08-10T04:31:52Z",
+            "updatedAt": "2021-08-10T04:31:52Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "jU-oIxMf3d4IkdDGpkN8HLKujgg",
+      "id": "Ugz3M6GuZg6hCsLAbPF4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "8m2u2npEUEUm4FE-CghIoCaH2vI",
+          "id": "Ugz3M6GuZg6hCsLAbPF4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ตอน 9 ตาย พวกมึงบอกจะหยุดใช้ความรุนแรง พอหลังจากนั้นแม่งก็เหมือนเดิม คำว่าศักดิศรีของมึง คือพวกคิดไม่เป็นต่างหาก",
+            "textOriginal": "ตอน 9 ตาย พวกมึงบอกจะหยุดใช้ความรุนแรง พอหลังจากนั้นแม่งก็เหมือนเดิม คำว่าศักดิศรีของมึง คือพวกคิดไม่เป็นต่างหาก",
+            "authorDisplayName": "P.O. Box",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQne7JoFk-cngpQuyvI9vPQprJ-72L81y3SEWUE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCNHG85hHFOkc0SAZvhkJ4UQ",
+            "authorChannelId": {
+              "value": "UCNHG85hHFOkc0SAZvhkJ4UQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-07-29T12:12:34Z",
+            "updatedAt": "2021-07-29T12:12:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "lzR1BJvdM7-cYqC0qVqZJtz49ME",
+      "id": "UgyXzgMkImB1lilXEkl4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "J4J6sm_DSq-_vlDcLtt5kiVbjIE",
+          "id": "UgyXzgMkImB1lilXEkl4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ผมรู้สึกว่า เค้าควรจะสั่งยกเลิก การรับน้องห่วยๆ แบบนี้นะครับ ชีวิตของคนคนนึง สำคัญมากเลยนะครับ แถมนี่เป็นพี่ที่จะไปเป็นอนาคตของชาติด้วยนะ (ผมพึ่งขึ้น ม.1) หยุดเถอะครับ การรับน้องแย่ๆแบบนี้",
+            "textOriginal": "ผมรู้สึกว่า เค้าควรจะสั่งยกเลิก การรับน้องห่วยๆ แบบนี้นะครับ ชีวิตของคนคนนึง สำคัญมากเลยนะครับ แถมนี่เป็นพี่ที่จะไปเป็นอนาคตของชาติด้วยนะ (ผมพึ่งขึ้น ม.1) หยุดเถอะครับ การรับน้องแย่ๆแบบนี้",
+            "authorDisplayName": "ToKung the Shinobi",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/uoxkvEj8bbvRY0FmSIhT9GZ8ZjNNJcPQmpxbGlQ68ltaeSmDC0MKMLIdStS3AkDbfbF2y708cQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCU6zJT65f01IqvsVJRBxsbQ",
+            "authorChannelId": {
+              "value": "UCU6zJT65f01IqvsVJRBxsbQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-07-28T08:37:49Z",
+            "updatedAt": "2021-07-28T08:38:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "wuaU732RXqeiIjH5aa--DIcheG8",
+      "id": "UgzKp7fN7WwTSssxvtN4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "z8_2kQFJvz7waXYbYTl9ioqrdQA",
+          "id": "UgzKp7fN7WwTSssxvtN4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ผมเขียนผิดยังไงบอกผมด้วยนะครับ",
+            "textOriginal": "ผมเขียนผิดยังไงบอกผมด้วยนะครับ",
+            "authorDisplayName": "pompom kun",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/dxhontk3SDmEFWWk8PQoRF_aNAjmYxTsztPpXAEdjk-ilvDHJ5qMFm2dLF4MzelUgBJ_nFYKkg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCWR97spi4ioOT25hDZEL_TA",
+            "authorChannelId": {
+              "value": "UCWR97spi4ioOT25hDZEL_TA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-07-19T14:08:12Z",
+            "updatedAt": "2021-07-19T14:08:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "elN1QZAzPwg3ahWOMnMiTFfcrXM",
+      "id": "UgydA0MTHw1dHswCW3J4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "GWdEmagZfVeeS85Vf51g0wUTmD8",
+          "id": "UgydA0MTHw1dHswCW3J4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ผมเกลียด",
+            "textOriginal": "ผมเกลียด",
+            "authorDisplayName": "pompom kun",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/dxhontk3SDmEFWWk8PQoRF_aNAjmYxTsztPpXAEdjk-ilvDHJ5qMFm2dLF4MzelUgBJ_nFYKkg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCWR97spi4ioOT25hDZEL_TA",
+            "authorChannelId": {
+              "value": "UCWR97spi4ioOT25hDZEL_TA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-07-19T14:06:15Z",
+            "updatedAt": "2021-07-19T14:06:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "aKhrguq97ZmS-_gBxSHNATDHCy8",
+      "id": "UgySKSDj3VCaiWUAxQp4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "icqHbKTbgF4fS-6gXEq4UBecpzw",
+          "id": "UgySKSDj3VCaiWUAxQp4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ก่อนเข้ามหาลัยผมคงต้องต้องฝึกมวยให้ชำนาญก่อนนะเนี่ย",
+            "textOriginal": "ก่อนเข้ามหาลัยผมคงต้องต้องฝึกมวยให้ชำนาญก่อนนะเนี่ย",
+            "authorDisplayName": "Thanakrit Ponimthai",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTIdaKTg3HRzVODcDheG2f7VcKefcEuh9uHKKWiWg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCXoeXgB7epTJ1QSCeK4lG_A",
+            "authorChannelId": {
+              "value": "UCXoeXgB7epTJ1QSCeK4lG_A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-07-16T06:26:12Z",
+            "updatedAt": "2021-07-16T06:26:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Jv2z6M3HumYs52naRGJvNh3Qi1U",
+      "id": "UgyHsF5pKebizfn28U54AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xBk00qjA9MgrnCSMDPaerlhrlY0",
+          "id": "UgyHsF5pKebizfn28U54AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "การด์ไม้ตายรู้เท่าไม่ถึงการณ์",
+            "textOriginal": "การด์ไม้ตายรู้เท่าไม่ถึงการณ์",
+            "authorDisplayName": "opp o",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS7AJ_LG7o1whecmcZu2ya9-lsaLez_KpeNLQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC1ATfYBZcjG1wSguSE0aJ1g",
+            "authorChannelId": {
+              "value": "UC1ATfYBZcjG1wSguSE0aJ1g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-07-10T03:23:27Z",
+            "updatedAt": "2021-07-10T03:23:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7rVAERNxCbdAMXHkMLR7T8uIiSw",
+      "id": "UgznDw9PFaWgOE28tjJ4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "3hFwwLFjGK8qWhrgxwSs13rKa7g",
+          "id": "UgznDw9PFaWgOE28tjJ4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ผมเข้าใจนะคับว่ามันเป็นระบบเป็นประเพณีที่ทำสืบทอดต่อกันมานาน​ แต่ระบบแบบนั้​ ไม่ควรจะมีนะคับ​",
+            "textOriginal": "ผมเข้าใจนะคับว่ามันเป็นระบบเป็นประเพณีที่ทำสืบทอดต่อกันมานาน​ แต่ระบบแบบนั้​ ไม่ควรจะมีนะคับ​",
+            "authorDisplayName": "นนท์ นนท์",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQkOmCkhF5nqLk-vQFjPUovW_tbyPJHsLGULA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdSFsLOkuAy8M_zS1u3hJHA",
+            "authorChannelId": {
+              "value": "UCdSFsLOkuAy8M_zS1u3hJHA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-07-05T12:44:00Z",
+            "updatedAt": "2021-07-05T12:44:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "YszbYhMtHZI20TymHtaqFBh0lac",
+      "id": "UgxGF9pEQ3DQZdjWCRN4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "jj1EP2dybHJUkaD1D3SkpVdfHZ0",
+          "id": "UgxGF9pEQ3DQZdjWCRN4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "โรงเรียนอะไร?",
+            "textOriginal": "โรงเรียนอะไร?",
+            "authorDisplayName": "เล่นการ์ด​ ไปวันๆ",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/7LmMGvgUgpRVlle9AVqBoGtTpSBRnPKLrspYVDEboa5dwNqz4VuPIcpfpgPn8NYhHI9-jPvyXg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCQmo8BycbmvYZcrBmvOu7zQ",
+            "authorChannelId": {
+              "value": "UCQmo8BycbmvYZcrBmvOu7zQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-07-03T13:02:23Z",
+            "updatedAt": "2021-07-03T13:02:23Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xOUaslAJSpGE0RYyzgq0pYGJZBI",
+      "id": "UgzSIJrwrKwLQwqHADl4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vP-7pgk5OxAYOoZKpG6RiOYwHHk",
+          "id": "UgzSIJrwrKwLQwqHADl4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ผมเห็นคลิปนี้ก่อนที่ผมจะเห็นในข่าวอีกครับพี่",
+            "textOriginal": "ผมเห็นคลิปนี้ก่อนที่ผมจะเห็นในข่าวอีกครับพี่",
+            "authorDisplayName": "🖤 VaFTer 🖤",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/OQr_gfsvzJ8V0w_Ykl-VFRzIvWseE3aoMUn1XA4V-Kl2lLqbk9WZKPaj6Uj9Dyy_7tVWtRG1_QI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCeTYx_zZiCLIM9tyohRKqMg",
+            "authorChannelId": {
+              "value": "UCeTYx_zZiCLIM9tyohRKqMg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-30T11:32:17Z",
+            "updatedAt": "2021-06-30T11:32:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "FbOf13LUGyxJR9mV9_yeNB8jYqQ",
+      "id": "Ugy0GigYTvsEu_FcIJZ4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "kMiso2NVvLorIc6BdBc_cru4YTA",
+          "id": "Ugy0GigYTvsEu_FcIJZ4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "Mind set อัปปรีย์ ที่ปลูกฝังกันในสถาบันเหล่านี้ ควรหาทางกำจัดให้หมดไป สถานศึกษาควรเอาไว้เรียนหาความรู้ ไม่จำเป็นต้องมีรุ่นพี่รุ่นน้อง ไม่ต้องมีรับน้อง เพราะมันโคตรจะไร้สาระ",
+            "textOriginal": "Mind set อัปปรีย์ ที่ปลูกฝังกันในสถาบันเหล่านี้ ควรหาทางกำจัดให้หมดไป สถานศึกษาควรเอาไว้เรียนหาความรู้ ไม่จำเป็นต้องมีรุ่นพี่รุ่นน้อง ไม่ต้องมีรับน้อง เพราะมันโคตรจะไร้สาระ",
+            "authorDisplayName": "Suparada Buateang",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRBxHXh_jMhrfXs-ypx-dwilcDZlJuVNqfkOfN-tA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqT8LmiTfi4p6GgRQ9yty0g",
+            "authorChannelId": {
+              "value": "UCqT8LmiTfi4p6GgRQ9yty0g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-28T13:07:53Z",
+            "updatedAt": "2021-06-28T13:07:53Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5KZLbrjIFfcjhNq8r6Gs0529fMc",
+      "id": "UgwRQO6zfYLOGVfIpXt4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "LRhBrqOKiDP2Ys6Su7DzHaMOlmk",
+          "id": "UgwRQO6zfYLOGVfIpXt4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "&quot;ขยะสังคมอีกเเล้วคนเก็บขยะมาด่วน&quot;",
+            "textOriginal": "\"ขยะสังคมอีกเเล้วคนเก็บขยะมาด่วน\"",
+            "authorDisplayName": "Chaos",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/PVjhdEng8LEuzflM26VYdanTGwRgFjVXKc-B4ddiVWdcU1VoFiw80dmP0T4mNB3_WgYQIJYjOcU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCuwfHuQeJkDmTctxmXUPFpw",
+            "authorChannelId": {
+              "value": "UCuwfHuQeJkDmTctxmXUPFpw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-06-28T03:56:34Z",
+            "updatedAt": "2021-06-28T03:56:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "bUHggOXMVRtrzfqPYs1KEG3mVd4",
+      "id": "UgyQtsXyLHwIwIxcbrJ4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "8ztvDCUICom25iM_y5NTKT0FIys",
+          "id": "UgyQtsXyLHwIwIxcbrJ4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "แมวขัดทุกคลิป",
+            "textOriginal": "แมวขัดทุกคลิป",
+            "authorDisplayName": "Theetush Butprom",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRel20QgyZX03bQBQjHIuf_wlQqX0e8lH97FZ3k=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCUbj1IZq_Zim7U_noDVph7w",
+            "authorChannelId": {
+              "value": "UCUbj1IZq_Zim7U_noDVph7w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-27T10:14:50Z",
+            "updatedAt": "2021-06-27T10:14:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "f0cwGdVnWvP_wvIsrKx6AzHXE70",
+      "id": "UgxKjssBpkYn3k7Pyo14AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "U0QpmgC9p6-hb8DgdhBm0d8Uulo",
+          "id": "UgxKjssBpkYn3k7Pyo14AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "รุ่นพี่ ไม่มีวุฒิภาวะ “ ขาดแล้วซึ่งวุฒิภาวะ ยังเอาความเขลา ไปข่มเหง สอนคนอื่น “ ยอมใจ",
+            "textOriginal": "รุ่นพี่ ไม่มีวุฒิภาวะ “ ขาดแล้วซึ่งวุฒิภาวะ ยังเอาความเขลา ไปข่มเหง สอนคนอื่น “ ยอมใจ",
+            "authorDisplayName": "basket",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRW0URRceKL1ypbQjLjizgp9UWj9RkDB4KACOIb6A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHUW-JJqwGN9DCK5YbNYaMg",
+            "authorChannelId": {
+              "value": "UCHUW-JJqwGN9DCK5YbNYaMg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-20T04:28:57Z",
+            "updatedAt": "2021-06-20T04:29:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "_h0AVteaaIUR_d-KzE9m2eBCe4k",
+      "id": "Ugx9lthn8QEapAD6hJF4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "SagI51kzKcXH5iWOiqTh0RtEq7E",
+          "id": "Ugx9lthn8QEapAD6hJF4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ภูมิใจมั้ยล่ะไอฆาตกรทั้ง12คนตราบาปนี้จะติดตัวพวกมึงไปจนวันตายเพราะพวกมึงได้ฆ่าคนคนนึงไปแล้วมันย้อนกลับมาแก้ไขไม่ได้แล้วเว้ย😌",
+            "textOriginal": "ภูมิใจมั้ยล่ะไอฆาตกรทั้ง12คนตราบาปนี้จะติดตัวพวกมึงไปจนวันตายเพราะพวกมึงได้ฆ่าคนคนนึงไปแล้วมันย้อนกลับมาแก้ไขไม่ได้แล้วเว้ย😌",
+            "authorDisplayName": "Atsushi",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQgESnUUKGtla-3fVUbbHmY2CCNFyiL6_W2tdx7Z2RBNv2sriix7nbs-Sf8vpZM=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCIpgrAxnhm9HRYRArTrLywQ",
+            "authorChannelId": {
+              "value": "UCIpgrAxnhm9HRYRArTrLywQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-18T16:47:01Z",
+            "updatedAt": "2021-06-18T16:47:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "XkhNUYJa1JdhCZRgJhwueYPvzDw",
+      "id": "Ugyfc4lCzuv0ywd96Mp4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xM2sIYSZM8gyKbpJrIi-LirCU2A",
+          "id": "Ugyfc4lCzuv0ywd96Mp4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "กิจกรรมรับน้องทีไร มีแต่ข่าว ด้าน- ตัดทิ้งไปได้ก็ดีจบๆกันไป",
+            "textOriginal": "กิจกรรมรับน้องทีไร มีแต่ข่าว ด้าน- ตัดทิ้งไปได้ก็ดีจบๆกันไป",
+            "authorDisplayName": "OverHardGamer",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTwo_f8Jn9txYXUA1cmDRzQGrGnHAjTb4FRpRrt=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCwV-UlQK0S4Euxha2stdrWw",
+            "authorChannelId": {
+              "value": "UCwV-UlQK0S4Euxha2stdrWw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-18T12:06:11Z",
+            "updatedAt": "2021-06-18T12:06:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "IJ5viBcyrdfaG9JHA2hoGfxew38",
+      "id": "UgwI9JVMfYVEP0Px2mR4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "4SnbDQq6u2Oje7etpx5-GXpoL7E",
+          "id": "UgwI9JVMfYVEP0Px2mR4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "เซอร์ไพร์สมาสเตอร์ฟัคเกอร์ มันจะยังมีแบบนี้อีกนานไหมเนี้ย -_- หรือมันต้องมีกฏหมายประหารออกมาเลย จะได้เลิกทำ",
+            "textOriginal": "เซอร์ไพร์สมาสเตอร์ฟัคเกอร์ มันจะยังมีแบบนี้อีกนานไหมเนี้ย -_- หรือมันต้องมีกฏหมายประหารออกมาเลย จะได้เลิกทำ",
+            "authorDisplayName": "มาการิ โยนิ",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQv9iMHzvOY8tFGsjBKAzq5bQKAHvUZV5WX8mpQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCirMlTlqAKsYsmmZjg2hiZg",
+            "authorChannelId": {
+              "value": "UCirMlTlqAKsYsmmZjg2hiZg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-18T09:43:00Z",
+            "updatedAt": "2021-06-18T09:43:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "1BVPiJU_xp7-AyRq2MFhVFuwdVs",
+      "id": "Ugwu_dsxxjHGwHvb6JV4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "DnUdzIBbjqhbq4wofUGFZMyJeqk",
+          "id": "Ugwu_dsxxjHGwHvb6JV4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "เอาจริง ผมอยากให้พวกที่รุมเตะเขา ให้ลูกมันโตแล้วโดนเตะบ้าง แต่ละคนมันโตมายังไง",
+            "textOriginal": "เอาจริง ผมอยากให้พวกที่รุมเตะเขา ให้ลูกมันโตแล้วโดนเตะบ้าง แต่ละคนมันโตมายังไง",
+            "authorDisplayName": "Roucklee Crolorskee",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRna5cRIumK6ZGmzxsmouUpyXM53TGUixjtKNnMKA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCKU_KxGPstWdh2ELgvw73Tg",
+            "authorChannelId": {
+              "value": "UCKU_KxGPstWdh2ELgvw73Tg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-18T07:17:49Z",
+            "updatedAt": "2021-06-18T07:17:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "3pG1MGd-t20c9ybK-aZM_f3I8Vc",
+      "id": "UgyBmLJL6558ToKzXKd4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-jhs3fYTCpjW2bDuIncaakxwFBQ",
+          "id": "UgyBmLJL6558ToKzXKd4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ส่งเเนนโน๊ะไป!!",
+            "textOriginal": "ส่งเเนนโน๊ะไป!!",
+            "authorDisplayName": "Zilu BKK",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/vZhpzuPnCiTk2TCJlsSqBVvt4JXzNFUD6EnJ_zpCVo92OUlcVde3pOwIp4umJBEcuHBhoP8f=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCgnIBKid5svrcR9ivy0vhzg",
+            "authorChannelId": {
+              "value": "UCgnIBKid5svrcR9ivy0vhzg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-18T07:00:53Z",
+            "updatedAt": "2021-06-18T07:00:53Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "11m_YiWZ36Dc3C0dQ6ardpfyZ9s",
+      "id": "UgxArccRdhympmz2p2Z4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dmEHUSuXMci5K406QKAcq2it-4M",
+          "id": "UgxArccRdhympmz2p2Z4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "สั่นๆ ง่ายๆ คือ แม่ง บ้าอำนาจชิบ เหมือนเท่อ่ะ",
+            "textOriginal": "สั่นๆ ง่ายๆ คือ แม่ง บ้าอำนาจชิบ เหมือนเท่อ่ะ",
+            "authorDisplayName": "Aurora",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTuxQ6ejRDWpxT6Pap4p0t6o92w1yjs_JYtYp5Z=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCL7jeuvprw7GGnzIy7bwo1g",
+            "authorChannelId": {
+              "value": "UCL7jeuvprw7GGnzIy7bwo1g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-16T18:21:17Z",
+            "updatedAt": "2021-06-16T18:21:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "6P4ZTwM3I5ZqDTpOo3yadsRQmA0",
+      "id": "UgysStxVN0-BCiEmrSl4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ZxcsSfPkSpCrEUv-q84PkoloUZg",
+          "id": "UgysStxVN0-BCiEmrSl4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "วันที่5มิถุนายนคือวันเกิดเรานี่ถึงกับสดุ้งเลย..เสียใจด้วยนะคะ🥺🙏",
+            "textOriginal": "วันที่5มิถุนายนคือวันเกิดเรานี่ถึงกับสดุ้งเลย..เสียใจด้วยนะคะ🥺🙏",
+            "authorDisplayName": "Beebell🌷✨",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/6i7s4rAIVi_8Pz6VX_nEOXP3ZlNAhBtObshutVtLVg1w9_K8VOvrXRobR6Bh3kQdEODfYXsC=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCgi0zhFbWRbT8HnfeWMKKKw",
+            "authorChannelId": {
+              "value": "UCgi0zhFbWRbT8HnfeWMKKKw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-16T13:08:03Z",
+            "updatedAt": "2021-06-16T13:08:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "nN6dFVnzM3OlediOM5aqX8Y2mWM",
+      "id": "UgzeBAVfIUTkzNm89SB4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "sfSjZvbu9fjiLZX1Fwbrdmk_YJQ",
+          "id": "UgzeBAVfIUTkzNm89SB4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "บ้าอำนาจ จะเรียกตัวเองว่ารุ่นพี่ได้ไงอ่ะ ปีสองใช่มั้ยที่รับน้อง ชอบตรงพี่ปีสามบอกว่ารุ่น88แทบไม่โดนไรเลย ทำไมทำกับน้องมันแบบนั้น ชดใช้อะไรได้มั้ยอ่ะ พวกสันดาน",
+            "textOriginal": "บ้าอำนาจ จะเรียกตัวเองว่ารุ่นพี่ได้ไงอ่ะ ปีสองใช่มั้ยที่รับน้อง ชอบตรงพี่ปีสามบอกว่ารุ่น88แทบไม่โดนไรเลย ทำไมทำกับน้องมันแบบนั้น ชดใช้อะไรได้มั้ยอ่ะ พวกสันดาน",
+            "authorDisplayName": "Natthaya Arnprayun",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSoMKWWzZojR_RZtnxqKP6-NlnFD0FlKxea4tnU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHNOAeTLEsVxkj_Y7eyPAjw",
+            "authorChannelId": {
+              "value": "UCHNOAeTLEsVxkj_Y7eyPAjw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-15T20:42:03Z",
+            "updatedAt": "2021-06-15T20:42:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5Hf1_Z4tPPW_zPDQrpgD9Qwiz4c",
+      "id": "UgzbZFZTR2XYMsrOQ6d4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2xCGDeE0mvG4IIG9lLl52YashCk",
+          "id": "UgzbZFZTR2XYMsrOQ6d4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ก็มันไม่ได้ไปไกลขนาดนั้นกฏหมาย เอางี้น่ะ ญาติผู้เสียชีวิต ที่มีกำลังก็อุ้มฆ่าเรียงตัว ดักอุ้มเผานั่งยาง จับเป็นถ้าทำได้ จับตายถ้าจำเป็น  ระบบเสื่อมในทุกที่ที่ขึ้นชื่อว่าเป็นตึกซึ่งมีมากกว่าหนึ่งคน ก็น่ะ อุ้มฆ่าล่ะก็จบอย่าให้โดนตามตัวเจอ",
+            "textOriginal": "ก็มันไม่ได้ไปไกลขนาดนั้นกฏหมาย เอางี้น่ะ ญาติผู้เสียชีวิต ที่มีกำลังก็อุ้มฆ่าเรียงตัว ดักอุ้มเผานั่งยาง จับเป็นถ้าทำได้ จับตายถ้าจำเป็น  ระบบเสื่อมในทุกที่ที่ขึ้นชื่อว่าเป็นตึกซึ่งมีมากกว่าหนึ่งคน ก็น่ะ อุ้มฆ่าล่ะก็จบอย่าให้โดนตามตัวเจอ",
+            "authorDisplayName": "Bee popcorn",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLToYHITxtkKRkjOXyjOmziOnNV_x6CNdC5TPpQBrw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCIDP62IHGibyDP4ZrOB4i1Q",
+            "authorChannelId": {
+              "value": "UCIDP62IHGibyDP4ZrOB4i1Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-14T17:52:27Z",
+            "updatedAt": "2021-06-14T17:52:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "79ZkVbJ1HvsrOZF9imSezz8cA6U",
+      "id": "Ugx0qLbv1GRbRVuHt_R4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "jJ-gYd6AJBeeMSL4prn0J4tpWQY",
+          "id": "Ugx0qLbv1GRbRVuHt_R4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "<a href=\"https://www.youtube.com/watch?v=MLTqFfqyrYw&amp;t=4m08s\">4:08</a> นุดพูดไร",
+            "textOriginal": "4:08 นุดพูดไร",
+            "authorDisplayName": "ImNamednowYoutube",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/CqSOECLTLswlsWey5jy0AzXFGMNdo2BfoUsJBg6i6fBhGW7PFDVzfms1wM-igKqTpneLRTtltA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCQgaBHQSksVbxpOpyMvyCUw",
+            "authorChannelId": {
+              "value": "UCQgaBHQSksVbxpOpyMvyCUw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-14T14:55:13Z",
+            "updatedAt": "2021-06-14T14:55:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "gIBAbM24CSLhb10H8shbTDH0z9U",
+      "id": "Ugw_EBdPBYAsFubulxJ4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "pivfg2dZ2MCb8dO5chp1bAAFsx0",
+          "id": "Ugw_EBdPBYAsFubulxJ4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "พี่ระวังนะครับ อุเทนมีหน่วยคอยดักเก็บ เล่นทีเผลอกับพวกไปยุ่งกับพวกมันนะคาับ",
+            "textOriginal": "พี่ระวังนะครับ อุเทนมีหน่วยคอยดักเก็บ เล่นทีเผลอกับพวกไปยุ่งกับพวกมันนะคาับ",
+            "authorDisplayName": "N S",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLStlQVVcTRKEc3kZa4LQmIk_AUi1G4D6n4PfZh1=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCoA6DkDTSc2fTKaNu21b2iQ",
+            "authorChannelId": {
+              "value": "UCoA6DkDTSc2fTKaNu21b2iQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-14T12:45:59Z",
+            "updatedAt": "2021-06-14T12:45:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "mBPYfp_hqpZO7zViG0Gby4GmCGc",
+      "id": "UgzLHStWck6PYaClRfp4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6zZcuPqvKB2Tuj6NxN2NnT7Xp-g",
+          "id": "UgzLHStWck6PYaClRfp4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "สมเพชหว่ะ ไม่มีความรับผิดชอบ ก็ไม่ต้องมาเรียน",
+            "textOriginal": "สมเพชหว่ะ ไม่มีความรับผิดชอบ ก็ไม่ต้องมาเรียน",
+            "authorDisplayName": "Poom Channel",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTxusogAtq-TD2ig_gsuCiMK0CQDkxsr5zw6DsVYQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHzP0BVy5VkLtgV8EHp0tmw",
+            "authorChannelId": {
+              "value": "UCHzP0BVy5VkLtgV8EHp0tmw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-14T08:34:34Z",
+            "updatedAt": "2021-06-14T08:34:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "eClthicZLjQIZ07dm5f_VsAjq9M",
+      "id": "UgxkGUiT7s6vZc4R9gJ4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "F_r2yRkjZScmnmoCYjZS6n8O-RM",
+          "id": "UgxkGUiT7s6vZc4R9gJ4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ก็เพราะแบบนี้  ผมบอกรุ่นน้องมึงเอาปืนไปด้วย  ถ้ารุ่นพี่ทำไรมึง  กดแมงเลย",
+            "textOriginal": "ก็เพราะแบบนี้  ผมบอกรุ่นน้องมึงเอาปืนไปด้วย  ถ้ารุ่นพี่ทำไรมึง  กดแมงเลย",
+            "authorDisplayName": "TheChay TV",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSAxFAqBA_VUDAAxCOf8WJmRVTEEh4Bc-3p_Zus9g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCmfs3Gv0L4ZWOd6-SRajRaQ",
+            "authorChannelId": {
+              "value": "UCmfs3Gv0L4ZWOd6-SRajRaQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-14T00:22:32Z",
+            "updatedAt": "2021-06-14T00:22:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "bP8FTgIG_NGT-OsDj-YXUXS4q9w",
+      "id": "Ugz9vVR4K0RjisTP7TB4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "8ga7EWa-wHfIKnqha_qD1TFBGZ0",
+          "id": "Ugz9vVR4K0RjisTP7TB4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "คือจริงๆโดนทำร้ายร่างกายควรจะรู้ตั้งแต่หมอตรวจแล้วไม่ใช่หรอวะ ให้ข้อมูลน้อยจัง หมอโรงบาลไหนอ่ะ",
+            "textOriginal": "คือจริงๆโดนทำร้ายร่างกายควรจะรู้ตั้งแต่หมอตรวจแล้วไม่ใช่หรอวะ ให้ข้อมูลน้อยจัง หมอโรงบาลไหนอ่ะ",
+            "authorDisplayName": "Jewelry",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTvB6tvBTl-iCxUyUB4C5gEK0zoKo-cfH_0ZXQecw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCFsA4Ds_a-BKa0LIbo-wPaw",
+            "authorChannelId": {
+              "value": "UCFsA4Ds_a-BKa0LIbo-wPaw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-06-13T21:41:19Z",
+            "updatedAt": "2021-06-13T21:41:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "B92W7zVmNZHy3bvBZLFmohAEemE",
+      "id": "UgxcqYC3UnqpSlwGh9d4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "IoWgminGzyZUVEPMMG1nJtI_2jg",
+          "id": "UgxcqYC3UnqpSlwGh9d4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "หนักกว่าทหารอีกนะ",
+            "textOriginal": "หนักกว่าทหารอีกนะ",
+            "authorDisplayName": "NONTAWAT SUPREELEELA",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRVnZFQhYLK96_YLeJ3FERjf8DIsrGQZmZb8nRd=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnM9UIuIM1QJ4smht8t4-SQ",
+            "authorChannelId": {
+              "value": "UCnM9UIuIM1QJ4smht8t4-SQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-13T20:32:56Z",
+            "updatedAt": "2021-06-13T20:32:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "fyhjUqYVeL_klwNHECQ6kSHYL34",
+      "id": "UgzNqtXEVXjqiLrTNyd4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "HWJPys9yoyBDdofOJfzNhUTQsmE",
+          "id": "UgzNqtXEVXjqiLrTNyd4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "พาศาฑัยเกลฎ 4(ขำๆนะ🥺)<br><br>สงสารคนที่โดนซ้อม🥺",
+            "textOriginal": "พาศาฑัยเกลฎ 4(ขำๆนะ🥺)\n\nสงสารคนที่โดนซ้อม🥺",
+            "authorDisplayName": "ッblueshine",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTo74gKluRYkmit3XhKhq1ISFUt3-_OZkBodO--=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCaAU5nH-zsEk7QzgTK_F5Gg",
+            "authorChannelId": {
+              "value": "UCaAU5nH-zsEk7QzgTK_F5Gg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-13T14:38:19Z",
+            "updatedAt": "2021-06-13T14:39:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "e5cU3_spSXqzUQ6412zd2ha6uOo",
+      "id": "UgyT9E2yLrASJKzY74Z4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ti2TRv4qwuuyYVaG74hpl-S3-Mg",
+          "id": "UgyT9E2yLrASJKzY74Z4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "จ่ายค่าเทอมเป็นหมื่นๆเพื่อมาเจออะไรแบบนี้หรอ",
+            "textOriginal": "จ่ายค่าเทอมเป็นหมื่นๆเพื่อมาเจออะไรแบบนี้หรอ",
+            "authorDisplayName": "MONTHIRA_BUASRI",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLReIoRYymGWNPYWnEvEc_a-eSJGxruPf4nt7lbZoQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC3O9K9hM5pRJKdEbO9SBSbw",
+            "authorChannelId": {
+              "value": "UC3O9K9hM5pRJKdEbO9SBSbw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-13T14:11:22Z",
+            "updatedAt": "2021-06-13T14:11:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xG_bTbuKANKLwxzjbB0-V4QcMn0",
+      "id": "Ugxsuq70g2vPtB-9lWx4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "fBRiixt_AZRTUOM0xAyWU0jf84o",
+          "id": "Ugxsuq70g2vPtB-9lWx4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "น่าสงสารมาก ไปมหาวิทยาลัยเพื่อไปเรียนนำความรู้มาพัฒนาตนพัฒนางานพัฒนาประเทศ กับเจอรุ่นพี่ here ๆ ความรู้ก็ไม่ได้ต่างจากรุ่นน้องเลยมาทำแบบนี้ ถือสิทธิ์อะไรมาลงโทษกันนะ",
+            "textOriginal": "น่าสงสารมาก ไปมหาวิทยาลัยเพื่อไปเรียนนำความรู้มาพัฒนาตนพัฒนางานพัฒนาประเทศ กับเจอรุ่นพี่ here ๆ ความรู้ก็ไม่ได้ต่างจากรุ่นน้องเลยมาทำแบบนี้ ถือสิทธิ์อะไรมาลงโทษกันนะ",
+            "authorDisplayName": "Ztaar Xie",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ7PGV9NLFZZgW5Ww2C9JWGU-0gto-Qpl4M5ahyap4=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBzhMIV4zxwoct5JY1VyBaw",
+            "authorChannelId": {
+              "value": "UCBzhMIV4zxwoct5JY1VyBaw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-13T12:29:48Z",
+            "updatedAt": "2021-06-13T12:29:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "NJoHRpNs-OuSGPoT3HcM2wrqxsc",
+      "id": "UgySEywLjNo6ANRW8Rd4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "po29JVvvUdTA5XObhEBRUlRAt9U",
+          "id": "UgySEywLjNo6ANRW8Rd4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "แบบนี้ไม่ได้เรียกว่า รับน้อง ครับ เรียกว่าโดนฆ่าตรกรรม",
+            "textOriginal": "แบบนี้ไม่ได้เรียกว่า รับน้อง ครับ เรียกว่าโดนฆ่าตรกรรม",
+            "authorDisplayName": "Yorch AllBlues",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/MV-0XJbFTm5VtnWcuVq8e2sr2Wm05VhQUJFHMPkpaiYgJaxN7gqQK-jHZuC4lWTLveWkac4iMFQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC8diNBJtUeZk-IZlyuKulfA",
+            "authorChannelId": {
+              "value": "UC8diNBJtUeZk-IZlyuKulfA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-13T08:56:50Z",
+            "updatedAt": "2021-06-13T08:56:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8XKY51DFzXQO3Wa_CLYuBx4pJxs",
+      "id": "UgxT_chzmB0snoXb5oN4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "m2IagT2Pev_zkNWZ4RdrRbnGMPM",
+          "id": "UgxT_chzmB0snoXb5oN4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "เเก่กว่ากูไม่กี่ปีกดกูอย่างหมา",
+            "textOriginal": "เเก่กว่ากูไม่กี่ปีกดกูอย่างหมา",
+            "authorDisplayName": "W.T_ street workout",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRW4mQWiAKsym5C9pHm07kNH-Rs8MNFbdgJHD1i4Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCF_4R9EIUml0VO0arWN4zvw",
+            "authorChannelId": {
+              "value": "UCF_4R9EIUml0VO0arWN4zvw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-13T08:53:54Z",
+            "updatedAt": "2021-06-13T08:53:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "DpQ3QXmxjpvc4Oy9IvMCFPoz7oY",
+      "id": "Ugx_6KPGN8IT5ZQvvbF4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "47WqI7rw2shBDVpOKXgyVA89Huk",
+          "id": "Ugx_6KPGN8IT5ZQvvbF4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ถ้าเป็นคนที่ผมรักผมจะตามฆ่าพวกที่ทำให้หมด",
+            "textOriginal": "ถ้าเป็นคนที่ผมรักผมจะตามฆ่าพวกที่ทำให้หมด",
+            "authorDisplayName": "wirat kosuwan",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQcn1ixKO8t3zOv0xntLUm7O5AvtMA8YLO7VnDNfg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCewTpCoa0h7IaDZOpNiMjbA",
+            "authorChannelId": {
+              "value": "UCewTpCoa0h7IaDZOpNiMjbA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-13T01:17:05Z",
+            "updatedAt": "2021-06-13T01:17:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7N6PCVwp8x6s2UungntafC7r5iE",
+      "id": "UgwCC-tfGO6KnCyvUjx4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "CyYc5qLtE_jhQVgs2YS_2WtdgTw",
+          "id": "UgwCC-tfGO6KnCyvUjx4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "กูจะบ้าตายว่ะ ไม่มีเหตุผลอะไรมาที่มาอ้างจะทำร้ายคนอื่นอยู่แล้ว",
+            "textOriginal": "กูจะบ้าตายว่ะ ไม่มีเหตุผลอะไรมาที่มาอ้างจะทำร้ายคนอื่นอยู่แล้ว",
+            "authorDisplayName": "AP",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ4EvdUK6FgIxSJceTmVTT8f2a5DlsUZrmO7b59Mw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCTHqn6eGfT9hkIInAXB5gSw",
+            "authorChannelId": {
+              "value": "UCTHqn6eGfT9hkIInAXB5gSw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-13T00:47:07Z",
+            "updatedAt": "2021-06-13T00:47:07Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "nUXhJsB5vjfxjtiLBFMeGbtnkYY",
+      "id": "UgwuMrqx-MpvumtgQeh4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dbhjtd3xGWnCO_DA0SosYlsxZ4s",
+          "id": "UgwuMrqx-MpvumtgQeh4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "เทนก็ระดับมหาลัยแล้วนะ อายุควรโตได้แล้ว สอบเข้าโครตยาก บางคนที่ไม่มีโอกาสเรียนทำงานกันหมดอายุเท่านี้ แล้วปลื้มอยู่ปี 2 แล้ว แต่ยังโดนรับน้อง ปกติจะเห็นแต่ปี 1 ที่โดนรับ ระบบอะไรกูงง ปกติจะเห็นปี 2 รวมกับปี 3 จะรับปี 1 และไอ้ระบบเตะๆต่อยๆ นี้คือพี่รักน้องหรอ หรือน้องคือทาสของพี่ 🤔 ระบบพี่น้องควรรักกันไม่ใช่หรอ",
+            "textOriginal": "เทนก็ระดับมหาลัยแล้วนะ อายุควรโตได้แล้ว สอบเข้าโครตยาก บางคนที่ไม่มีโอกาสเรียนทำงานกันหมดอายุเท่านี้ แล้วปลื้มอยู่ปี 2 แล้ว แต่ยังโดนรับน้อง ปกติจะเห็นแต่ปี 1 ที่โดนรับ ระบบอะไรกูงง ปกติจะเห็นปี 2 รวมกับปี 3 จะรับปี 1 และไอ้ระบบเตะๆต่อยๆ นี้คือพี่รักน้องหรอ หรือน้องคือทาสของพี่ 🤔 ระบบพี่น้องควรรักกันไม่ใช่หรอ",
+            "authorDisplayName": "ทรชน คนไม่ดี",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/TH3SjR03rsHnTuQTBvcmFrymZsN9tXk_PllAkYsWcfzZHI4Paa3mMd0Y0gWIh2o4z3THcCG06g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5UE7Gx5AoQAvzBR65H3PEA",
+            "authorChannelId": {
+              "value": "UC5UE7Gx5AoQAvzBR65H3PEA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T15:12:51Z",
+            "updatedAt": "2021-06-12T15:13:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "R3wp2W4LjNnrHaXH1jmjQj7Wu20",
+      "id": "UgzyCzk08Y6NgbN9wCV4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "z5vvIsMTmM7qo9nfpU54jnJgGDk",
+          "id": "UgzyCzk08Y6NgbN9wCV4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ทำไมถึงเขียนว่า รุมซ่อม ยันหน้าหนังสือพิมพ์ เขียนว่า รุมซ่อม ไม่ใช่ซ้อมหรอคะ?",
+            "textOriginal": "ทำไมถึงเขียนว่า รุมซ่อม ยันหน้าหนังสือพิมพ์ เขียนว่า รุมซ่อม ไม่ใช่ซ้อมหรอคะ?",
+            "authorDisplayName": "Arada Tantong",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTfuDpMGK_VDX-ACglcrxV12tjvCm5m0AvGDKIQTg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRbO1uMFQJFHQaR1KOyS3xQ",
+            "authorChannelId": {
+              "value": "UCRbO1uMFQJFHQaR1KOyS3xQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T15:03:16Z",
+            "updatedAt": "2021-06-12T15:03:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cxKwVNm1ycRAXRzp-HzbZPSwaF4",
+      "id": "Ugz1vh92vlO740mZlk54AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "iY6HhZQlZvOHPNlZ5UAnBoJudmQ",
+          "id": "Ugz1vh92vlO740mZlk54AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "อุเทนถวายไม่ใช่สถานศึกษาหรอกศูนย์รวมตัวพวกระยําตํ่าช้ามากกว่า ไม่อยากจะดูถูกขนาดนี้ แค่พูดในความเป็นจริง ทําตัวให้โดนวิจารณ์เอง ทําตัวเหมือนขยะสังคม รุ่นน้องสถาบันเดียวกันแท้ๆ แบบนี้เขาไม่ได้เรียกนักเลงหรอกเขาเรียกว่ากุ้ย อย่าเรียกตัวเองว่าลูกผู้ชายเลยถ้ายังไม่หยุดรอบกัด ลูกผู้ชายจริงเขาต้องสัดกันจะๆครับพวกหมาขี้เรื้อน ถุ้ย หมดศรัทธากับวิทยาลัยอุเทนถวายแล้วจริงๆ ขอบคุณครับ",
+            "textOriginal": "อุเทนถวายไม่ใช่สถานศึกษาหรอกศูนย์รวมตัวพวกระยําตํ่าช้ามากกว่า ไม่อยากจะดูถูกขนาดนี้ แค่พูดในความเป็นจริง ทําตัวให้โดนวิจารณ์เอง ทําตัวเหมือนขยะสังคม รุ่นน้องสถาบันเดียวกันแท้ๆ แบบนี้เขาไม่ได้เรียกนักเลงหรอกเขาเรียกว่ากุ้ย อย่าเรียกตัวเองว่าลูกผู้ชายเลยถ้ายังไม่หยุดรอบกัด ลูกผู้ชายจริงเขาต้องสัดกันจะๆครับพวกหมาขี้เรื้อน ถุ้ย หมดศรัทธากับวิทยาลัยอุเทนถวายแล้วจริงๆ ขอบคุณครับ",
+            "authorDisplayName": "Rea Nor",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLStM3neLjnJ3722vQDTwEA_p85ZXXWGIoUzRA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCM8u9YD8Pl1nRw8J4PjMkZg",
+            "authorChannelId": {
+              "value": "UCM8u9YD8Pl1nRw8J4PjMkZg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T12:59:51Z",
+            "updatedAt": "2021-06-12T13:01:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "dtv1Ykw4azh-2Hgtt5r-t3h8Ve0",
+      "id": "Ugw8x4OgqSk5wFVDhwh4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "UhFNqbOtU5rtnOZz_PdqifV5bwM",
+          "id": "Ugw8x4OgqSk5wFVDhwh4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "อุทวยหัวเคน",
+            "textOriginal": "อุทวยหัวเคน",
+            "authorDisplayName": "love love",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSR1pWQQEyjNwE15Mpjwky0fvR5AYoMAZOCRzGUWg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCG2elxBbblAT16AUD6OKZkw",
+            "authorChannelId": {
+              "value": "UCG2elxBbblAT16AUD6OKZkw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T11:33:52Z",
+            "updatedAt": "2021-06-12T11:33:52Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "IH2XF2AKVLTKSF8yVysYzAuMKBk",
+      "id": "UgybObxYTFkfdy-BeXl4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "du_qCCZVXrD1j3ZKh-WoqhMhCXE",
+          "id": "UgybObxYTFkfdy-BeXl4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ก็รู้อยู่แล้วว่าที่นั่นมันโหด   ตีกันทุกปี ตายทุกปี ใครไม่พร้อมเรียนก็ไม่ต้องไปเรียน ไม่มีใครบังคับให้ไปเรียนซะหน่อย  ผมคนนึงล่ะไม่ส่งลูกหลานไปเรียน ที่ดีๆมีตั้งเยอะแยะ",
+            "textOriginal": "ก็รู้อยู่แล้วว่าที่นั่นมันโหด   ตีกันทุกปี ตายทุกปี ใครไม่พร้อมเรียนก็ไม่ต้องไปเรียน ไม่มีใครบังคับให้ไปเรียนซะหน่อย  ผมคนนึงล่ะไม่ส่งลูกหลานไปเรียน ที่ดีๆมีตั้งเยอะแยะ",
+            "authorDisplayName": "Thanos Gamer",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGCcy23WTWcwQJhOQuKbxIU4MMn2UlGE5YrA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtGRKN0AFY5ZkzdsALvdWRg",
+            "authorChannelId": {
+              "value": "UCtGRKN0AFY5ZkzdsALvdWRg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T11:00:10Z",
+            "updatedAt": "2021-06-12T11:00:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "enTYIK1iLSp51tjE2V6Xw4qC49I",
+      "id": "Ugwcfxmjzaw8DRB1P6h4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "8VOaViTP7rSlo_29pFpzgr4JG0o",
+          "id": "Ugwcfxmjzaw8DRB1P6h4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "การกระทำรุนแรงที่อก คอ จมูก ลิ้นปี่ ชายโครง ที่แรงมากพอนี่ฆ่าคนได้ง่ายๆเลยนะ อันนี้โดนข้อหาร่วมกันฆ่าได้เลยอะคือบับ สมัยนี้ ยังมีคนแบบนี้อยู่อีกเรอะ สงสารน้องมากอะ",
+            "textOriginal": "การกระทำรุนแรงที่อก คอ จมูก ลิ้นปี่ ชายโครง ที่แรงมากพอนี่ฆ่าคนได้ง่ายๆเลยนะ อันนี้โดนข้อหาร่วมกันฆ่าได้เลยอะคือบับ สมัยนี้ ยังมีคนแบบนี้อยู่อีกเรอะ สงสารน้องมากอะ",
+            "authorDisplayName": "Naomi Nightcore",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTxNVTocyhZnAwMoMkTFjN24nLEd_o_ARVT42WhFQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCFr64s3Pq6cCWFbyJ46-rcw",
+            "authorChannelId": {
+              "value": "UCFr64s3Pq6cCWFbyJ46-rcw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T10:49:54Z",
+            "updatedAt": "2021-06-12T10:49:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "R3fwPQgdE8lh-5hHjGQzeDj08t8",
+      "id": "UgyrzwnAdbL9IMmIMF54AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "EZq_KCr3QF7lQd0guAylNKvwlH8",
+          "id": "UgyrzwnAdbL9IMmIMF54AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ห่ะแค่ไล่ออก😡",
+            "textOriginal": "ห่ะแค่ไล่ออก😡",
+            "authorDisplayName": "อิสระ สิมลีราช",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRd6sH-GsDT-RCQkwcHER3DAjeDQGVVdb9BrynN=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCU5FeSM3qdXz0k2gI9bKeJA",
+            "authorChannelId": {
+              "value": "UCU5FeSM3qdXz0k2gI9bKeJA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T09:58:14Z",
+            "updatedAt": "2021-06-12T09:58:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "tGUFAU_rVn0Yv6M-07b-kSWEUic",
+      "id": "UgyTaCln0uF3tfO5c9N4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "y6l-HCvWBfmBr0xsRKQmQ0F4Yck",
+          "id": "UgyTaCln0uF3tfO5c9N4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "สงสารมากวันก่อนเห็นข่าวสะเทือนใจมาก",
+            "textOriginal": "สงสารมากวันก่อนเห็นข่าวสะเทือนใจมาก",
+            "authorDisplayName": "สาริศา สา",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR4pzDs-ct-ny8faOKMAL08bJNoSUuIN2tqNw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCSAkZNgfjAZPvEoFgEhwfkw",
+            "authorChannelId": {
+              "value": "UCSAkZNgfjAZPvEoFgEhwfkw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T09:33:13Z",
+            "updatedAt": "2021-06-12T09:33:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "68-TjsxwUqIG2U6KPDoMtI8ftL4",
+      "id": "UgxwtPj-kAvT1o4XD3F4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "mYgoBH0_pHxsBPg74Idz3hoXfNA",
+          "id": "UgxwtPj-kAvT1o4XD3F4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ระบบการรับน้องโครตแย่เลย เอาจริงไม่รู้จะมีทำไม รุ่นพี่บางคนก็คิดตรรกะโง่ๆป่วยๆมารับน้อง",
+            "textOriginal": "ระบบการรับน้องโครตแย่เลย เอาจริงไม่รู้จะมีทำไม รุ่นพี่บางคนก็คิดตรรกะโง่ๆป่วยๆมารับน้อง",
+            "authorDisplayName": "Mommoji",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/tUXovhuMPH2XL6dkE33_g2HJrIUHX6guqyOxkONe5XqnjMEbPdRD1HVyToxU11jfILRwH0J1bbU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCLexGwVHoWBQ1GSw1XE5L6A",
+            "authorChannelId": {
+              "value": "UCLexGwVHoWBQ1GSw1XE5L6A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T08:52:53Z",
+            "updatedAt": "2021-06-12T08:53:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "mINqBraaGmkBrjmnnZous4025kY",
+      "id": "UgzfnQr7W-eCd320T894AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ylXo1USsuw21dvaf0gY6i4W98nE",
+          "id": "UgzfnQr7W-eCd320T894AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "จับมาประชาทัณฑ์ง่ายกว่าครับ เลือดล้างด้วยเลือดง่ายสุดครับ ทีเตะหน้าอกอ่ะกล้าที่จะทำแต่ไม่กล้ายอมรับผิดใส่กระโปรงดีกว่ามั้ง",
+            "textOriginal": "จับมาประชาทัณฑ์ง่ายกว่าครับ เลือดล้างด้วยเลือดง่ายสุดครับ ทีเตะหน้าอกอ่ะกล้าที่จะทำแต่ไม่กล้ายอมรับผิดใส่กระโปรงดีกว่ามั้ง",
+            "authorDisplayName": "DarkeZ Ch",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQlBHU73X0Zm5CV6SZMAuftOSiMD4n2XbBpWhhgHQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCUlB9BidGg7dTtUdxGD_22Q",
+            "authorChannelId": {
+              "value": "UCUlB9BidGg7dTtUdxGD_22Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T07:50:26Z",
+            "updatedAt": "2021-06-12T08:29:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "o5qFNodDDiVpmARUGJShIvxFhgA",
+      "id": "UgwwrM2O_31Fwo7EruB4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "drv2p8h4TDbF7TlJU_Ptay1C4xY",
+          "id": "UgwwrM2O_31Fwo7EruB4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "รุ่นพี่ที่เตะ โคตรชั่ว",
+            "textOriginal": "รุ่นพี่ที่เตะ โคตรชั่ว",
+            "authorDisplayName": "uhu3d",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTYeu0NjxFpgUasS_eP5s5uBiLQx3VZB0Sk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCssx_YAq5DjNq-Sc62ddEUg",
+            "authorChannelId": {
+              "value": "UCssx_YAq5DjNq-Sc62ddEUg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T06:21:00Z",
+            "updatedAt": "2021-06-12T06:21:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "f5YX1EioqjSBnP0ms_snXchtxDw",
+      "id": "UgwgYnXVpLe1lrnghiJ4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "MSRLQgJngp8cCKpMXHBsyuqpw0c",
+          "id": "UgwgYnXVpLe1lrnghiJ4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "เเมวมาขัด55",
+            "textOriginal": "เเมวมาขัด55",
+            "authorDisplayName": "Tharatep p.",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTVgFOFfAsTFfQnbgZrkS_5JZ4klmbhwoHmkyDqE33x_vYobNaqAGZQAOy-o-0A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCIL-X8O8rzcEcw13HwKP32w",
+            "authorChannelId": {
+              "value": "UCIL-X8O8rzcEcw13HwKP32w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T04:26:41Z",
+            "updatedAt": "2021-06-12T04:26:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Im5NluVTgayyCXUbylfNT-gDE4M",
+      "id": "UgzMFKMdIqjdRJ5tg4l4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "51r7wbNE-fEVEevd9KS9UDAuu5Y",
+          "id": "UgzMFKMdIqjdRJ5tg4l4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "โรงเรียนเด็กช่าง ระบบรับน้อง ขยะยังดูดีกว่าเยอะ รุ่นพี่แบบนี้ต้องโดนกระทืบ",
+            "textOriginal": "โรงเรียนเด็กช่าง ระบบรับน้อง ขยะยังดูดีกว่าเยอะ รุ่นพี่แบบนี้ต้องโดนกระทืบ",
+            "authorDisplayName": "mudamuda mudamuda",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSBNy_db_1j-6ntNKlFTU6rGhDZB9_YWU9BvAGJQw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCgDr5grVwaFV8Vix8kQFq0g",
+            "authorChannelId": {
+              "value": "UCgDr5grVwaFV8Vix8kQFq0g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T04:15:48Z",
+            "updatedAt": "2021-06-12T04:15:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Rg4KiQViMEeEV5jntw0ZYC8dM1o",
+      "id": "UgxhgoKKSKR0Rk9q4eJ4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "NTl7QQ-vIm_d_FJ9lFItoMYY08w",
+          "id": "UgxhgoKKSKR0Rk9q4eJ4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ควยไรรุ่นพี่ทั้งหลายกูเจอข่าวแบบนี้พร้อมเปิดสงครามกับรุ่นพี่ทันที😏🤭",
+            "textOriginal": "ควยไรรุ่นพี่ทั้งหลายกูเจอข่าวแบบนี้พร้อมเปิดสงครามกับรุ่นพี่ทันที😏🤭",
+            "authorDisplayName": "แมว เหมียว",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ4lX1eTpRHe_TwFyT6wkAj6MkGVZvwilhCm9YMyQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCyqvzqbNKbU3fHXIiNwYAag",
+            "authorChannelId": {
+              "value": "UCyqvzqbNKbU3fHXIiNwYAag"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T03:53:40Z",
+            "updatedAt": "2021-06-12T03:53:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "qbsQ2zWW6-wpxKJ7s6x0f5yFCis",
+      "id": "Ugwt08mZcrafBtkaLx14AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "BP3y3sadmx7woN3B3Dpivsq6RJI",
+          "id": "Ugwt08mZcrafBtkaLx14AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ยกเลิกไปสักทีเถอะไอการรับน้องเนียการรับน้องมันก็แค่การเอาวัยรุ้นที่อายุห่างกันแค่ปี2ปีมาทำกิจกรรมตามอำเภอใจอย่าลืมนะว่าคนเรามีสมองมีความอ่านที่ไม่เท่ากันบางคนนิยมความรุนแรงบางคนก็ชอบลามกอนาจารเจอรุ่นพี่ดีก็ดีไปเจอคนเหี้ยๆกว่าจะรับรู้ความเหี้ยที่กระทำกับรุ่นน้องก็สายไปแล้วเพราะฉะนั้นถ้าไม่มีผู้ใหญ่หรือครูเป็นที่ปรึกษาก็อย่าทำมันเลยผมคนนึงแหละที่ไม่ขอเข้าร่วมเด็ดขาด ใครๆก็รักชีวิตตัวเองทั้งนั้นคิดให้เยอะๆหน่อยนะพวกรุ่นพี่ทั้งหลาย",
+            "textOriginal": "ยกเลิกไปสักทีเถอะไอการรับน้องเนียการรับน้องมันก็แค่การเอาวัยรุ้นที่อายุห่างกันแค่ปี2ปีมาทำกิจกรรมตามอำเภอใจอย่าลืมนะว่าคนเรามีสมองมีความอ่านที่ไม่เท่ากันบางคนนิยมความรุนแรงบางคนก็ชอบลามกอนาจารเจอรุ่นพี่ดีก็ดีไปเจอคนเหี้ยๆกว่าจะรับรู้ความเหี้ยที่กระทำกับรุ่นน้องก็สายไปแล้วเพราะฉะนั้นถ้าไม่มีผู้ใหญ่หรือครูเป็นที่ปรึกษาก็อย่าทำมันเลยผมคนนึงแหละที่ไม่ขอเข้าร่วมเด็ดขาด ใครๆก็รักชีวิตตัวเองทั้งนั้นคิดให้เยอะๆหน่อยนะพวกรุ่นพี่ทั้งหลาย",
+            "authorDisplayName": "อนุกูล ยุกตะนันทน์",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQx-EnTGylKY_paqAO5T_V9fZ62VfhSS38h5yHi=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCiGHtpHd_KUL--Va5pNhZWg",
+            "authorChannelId": {
+              "value": "UCiGHtpHd_KUL--Va5pNhZWg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T02:21:18Z",
+            "updatedAt": "2021-06-12T02:22:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "oATWTLwJSAmJShGQtSiD-9TZUAs",
+      "id": "Ugy9-GvsiMRQy1U9dcZ4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "zlNLk8_LhLsu3HutCmJ8Xc1kQqQ",
+          "id": "Ugy9-GvsiMRQy1U9dcZ4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "พี่ปลื้มหรอเออหรืหนูคิดไปเองงง",
+            "textOriginal": "พี่ปลื้มหรอเออหรืหนูคิดไปเองงง",
+            "authorDisplayName": "เมจเกอิชา👑",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/1Ljw2tQLk1CjW6RvN77jN5DHNn_F-pgEdQBAEN1yMGY14yR44gPSR5URvqI_WiGKqnldcCF0TA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbupY4nx0J5oiNZfz5Vo4pw",
+            "authorChannelId": {
+              "value": "UCbupY4nx0J5oiNZfz5Vo4pw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T00:48:27Z",
+            "updatedAt": "2021-06-12T00:48:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "hcjJZOElucZvL2AZbnsHPX-2r-I",
+      "id": "UgyKAlbhpya9MX4AJTR4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "d7XEd8IbvMpO0WMyHUwJ9pKiDvs",
+          "id": "UgyKAlbhpya9MX4AJTR4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ไม่ใช่รับน้องครับเค้าเรียกว่ารับระบบส่วนนึงมาจากความเต็มใจของน้องที่ตายเเต่ถึงตายเเบบนี้รุ่นพี่เหี้ยจริงครับ",
+            "textOriginal": "ไม่ใช่รับน้องครับเค้าเรียกว่ารับระบบส่วนนึงมาจากความเต็มใจของน้องที่ตายเเต่ถึงตายเเบบนี้รุ่นพี่เหี้ยจริงครับ",
+            "authorDisplayName": "tfdf gff",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8nnf-WzJxQG89kNZ3Y2Mnh2tbrTRLy_GICw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UClVjjiOR9Dvsm-d8yd7wRwQ",
+            "authorChannelId": {
+              "value": "UClVjjiOR9Dvsm-d8yd7wRwQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T00:07:06Z",
+            "updatedAt": "2021-06-12T00:07:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "RHdmbEGAHNkgqK9smjdCIMN6PkM",
+      "id": "UgzsEsVJez-NPHh68rF4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "JBEJegf2rh4c7NMRAkdqsY8OM3k",
+          "id": "UgzsEsVJez-NPHh68rF4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "โรงเรียนขยะเมื่อไหร่จะปิดสักที",
+            "textOriginal": "โรงเรียนขยะเมื่อไหร่จะปิดสักที",
+            "authorDisplayName": "งง เหมือนกัน",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQqA0Q0f-SJmF9dQo9LrFwKtY8Fq-R2bOuHaA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCxZmxX93n1_I1ZVPJMYufJQ",
+            "authorChannelId": {
+              "value": "UCxZmxX93n1_I1ZVPJMYufJQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T23:46:44Z",
+            "updatedAt": "2021-06-11T23:46:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8rCsXA1St4Z9d5RetIb7a3lFH6A",
+      "id": "UgxSs7IJSKSgAO0-Zh14AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vJX08iP6Ob1rQbbYR8nu9sDsGr4",
+          "id": "UgxSs7IJSKSgAO0-Zh14AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "อยากให้แม่โจ้เลิกรับน้องโหดอ่ะกูอยากไปเรียน",
+            "textOriginal": "อยากให้แม่โจ้เลิกรับน้องโหดอ่ะกูอยากไปเรียน",
+            "authorDisplayName": "It is Praweena",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT4RtsG6VIn1rzn3DYSfTEm_d8WnnVYAkIlrSkVeQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-eRVMJQKB4kcZGcQoy90Aw",
+            "authorChannelId": {
+              "value": "UC-eRVMJQKB4kcZGcQoy90Aw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-06-11T22:42:58Z",
+            "updatedAt": "2021-06-11T22:42:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "aajE9dqY7MXP-usfo442pkB0CDs",
+      "id": "Ugwibo7FtUK2U2PCGx94AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "QdldA3lVj3kcZimRqwMeN1Zgl5Q",
+          "id": "Ugwibo7FtUK2U2PCGx94AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ประหารเลยครับ ถึงมันจะติดตลอดชีวิตก็ได้ออกมาเหมือนเดิม Thailand Only",
+            "textOriginal": "ประหารเลยครับ ถึงมันจะติดตลอดชีวิตก็ได้ออกมาเหมือนเดิม Thailand Only",
+            "authorDisplayName": "TheFastFarm",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT0l13y7-nUaYOsi93MMnE_i3a8OxkxUlBa1szp7Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCWnDAdt6tttA56TDRG5Vi1Q",
+            "authorChannelId": {
+              "value": "UCWnDAdt6tttA56TDRG5Vi1Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-06-11T17:01:28Z",
+            "updatedAt": "2021-06-11T17:05:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "C8pCZU9dfkSpgXW4AvdET-yAx-o",
+      "id": "Ugx_1uqBSbohbHZK2IB4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "hOQQYsB0YWu6TIJa94xL4nqnwTQ",
+          "id": "Ugx_1uqBSbohbHZK2IB4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ติดคุกตลอดชีวิตเลยคับ",
+            "textOriginal": "ติดคุกตลอดชีวิตเลยคับ",
+            "authorDisplayName": "พงศกร ฯ.",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/dueE4Buvz124SMXxQaM_jB9tUgr_U-2XZAEreQvJERz3ErRrlp26dvpu-WC_3cLrnlBSipVpc3g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkBinpLw6V8_jMY6DOTzxGQ",
+            "authorChannelId": {
+              "value": "UCkBinpLw6V8_jMY6DOTzxGQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T16:41:09Z",
+            "updatedAt": "2021-06-11T16:41:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9tN397Jl9PTvGT0_Tc68aQKYuEY",
+      "id": "UgyFQ3M-EM5G-ujABwt4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "cal4pEIUyQQFhqDWEJA8zAxWfbM",
+          "id": "UgyFQ3M-EM5G-ujABwt4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "รับกับซ่อมความหมายมันต่างกัน..",
+            "textOriginal": "รับกับซ่อมความหมายมันต่างกัน..",
+            "authorDisplayName": "เวลาผ่านไปกลายเป็น อดีต",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/9QkiX04_j_pq23TH-aWTmwY5QmXUOLYGQkGGBHtrbxOK3nWMFm8B961M5IJb-sFhj9DPqHhPWg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCmROB8DSOrdrlRIMS_KSIbw",
+            "authorChannelId": {
+              "value": "UCmROB8DSOrdrlRIMS_KSIbw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T16:32:47Z",
+            "updatedAt": "2021-06-11T16:32:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "YAJwVllOJXoQTfasHQKd3zUXIiY",
+      "id": "Ugw8_oKxvQ2ndOdUcUR4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "f1xqFbrIgCQQQ6KOBEcPawHbYHM",
+          "id": "Ugw8_oKxvQ2ndOdUcUR4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ถ้าผมเป็นพี่ของคนเสียชีวิตผมจะไปต่อยไห้มันรู้",
+            "textOriginal": "ถ้าผมเป็นพี่ของคนเสียชีวิตผมจะไปต่อยไห้มันรู้",
+            "authorDisplayName": "PG SHAD0W",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/cmneLkB8Qt3REhbczYZIPHRPARdy4mV64U3xHUidA6G4GmWU_eHPKIhpTNFuAo9ieDoEwTV0390=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdLEOXT1aeE7jCxWljVwo2Q",
+            "authorChannelId": {
+              "value": "UCdLEOXT1aeE7jCxWljVwo2Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T15:53:30Z",
+            "updatedAt": "2021-06-11T15:53:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "MQM8jZ0guceWwSfZmSAmo1VirrU",
+      "id": "UgyYuU5Rvtz6PeaMXGh4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "gkTTusQviirUbWfVCSQE2-SyBqA",
+          "id": "UgyYuU5Rvtz6PeaMXGh4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "อยากเห็นรายชื่อฆาตกร",
+            "textOriginal": "อยากเห็นรายชื่อฆาตกร",
+            "authorDisplayName": "Kiyomaru",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-oOq7TRHt2XrOqr9b8tzeamgKJ1xkd0muhOH7B75mr1tUfv2ZTp7ISO9Cm0q5WZr44T_HSBmi_4=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCSUM0Heur4u67LltNL4Br6w",
+            "authorChannelId": {
+              "value": "UCSUM0Heur4u67LltNL4Br6w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T14:55:14Z",
+            "updatedAt": "2021-06-11T14:55:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "6OKHkLXnm-Rp3-5vqQD9r389J3c",
+      "id": "UgyIYHNTIv4vdIrLMK14AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "PpITo_3dh7CVMlsVq6kiQKXL2Fc",
+          "id": "UgyIYHNTIv4vdIrLMK14AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "นี้เค้าเรียกกันว่ารับน้องงั้นรึ",
+            "textOriginal": "นี้เค้าเรียกกันว่ารับน้องงั้นรึ",
+            "authorDisplayName": "Sirapat",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/SdlRP3A2opmakrEDkdhCYrcqy2wThJGZikwcP73vGa0FFVrG8pJ7NzZTI75KVZJnRvdClLMIma8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCsKm8xjdg4fgVhyN9v2-O9A",
+            "authorChannelId": {
+              "value": "UCsKm8xjdg4fgVhyN9v2-O9A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T14:18:19Z",
+            "updatedAt": "2021-06-11T14:18:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-u8UmkwUfj10L_A4mMtsv-c0PQQ",
+      "id": "UgyUC50d9xMgJ4cQjAF4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Ao9Xfe9TZtfQVjviD6FYi5qnaz0",
+          "id": "UgyUC50d9xMgJ4cQjAF4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "น้องปลิ้ม RUOK FF รึเปล่า",
+            "textOriginal": "น้องปลิ้ม RUOK FF รึเปล่า",
+            "authorDisplayName": "เผาเวา",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/wIHTJOapvXrVDHkIFfi8PDQ5qywBT3vSjsvSpI4Xwtv9KO7heMK8q-ELBJnqhMhwFMo5ekM4bQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCql12rZqNAMrOt94EyDYXQA",
+            "authorChannelId": {
+              "value": "UCql12rZqNAMrOt94EyDYXQA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-06-11T12:45:29Z",
+            "updatedAt": "2021-06-11T12:45:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "zjr022JUKUXJD2Z62zO8wmmg-qc",
+      "id": "UgwKwzdNEM1X_ee4yGx4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6VYSbqXvMAFy2u-ZKkZYPJc9BiI",
+          "id": "UgwKwzdNEM1X_ee4yGx4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "แค่เห็นหน้าปกก็คือสงสาร มันแบบ ไอ้พวกที่ทำคนๆนึงให้ตายได้ โดยที่เขาไม่ผิดอะไรเลย คืองง ถ้าเขาไปฆ่าพ่อแม่ใครก็ว่าไปอย่าง นี่อะไรรับน้อง รับน้องด้วยชีวิต ทุเรศว่ะ รุ่นพี่บางตัวก็ไม่ควรได้คำว่า รุ่นพี่",
+            "textOriginal": "แค่เห็นหน้าปกก็คือสงสาร มันแบบ ไอ้พวกที่ทำคนๆนึงให้ตายได้ โดยที่เขาไม่ผิดอะไรเลย คืองง ถ้าเขาไปฆ่าพ่อแม่ใครก็ว่าไปอย่าง นี่อะไรรับน้อง รับน้องด้วยชีวิต ทุเรศว่ะ รุ่นพี่บางตัวก็ไม่ควรได้คำว่า รุ่นพี่",
+            "authorDisplayName": "M&N m170",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS4-P5Vm_azl9e-ju_FuQNLm-TnKwcw92b2FyU1jw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCUJF2aXReuzADJ-cuJqaOzw",
+            "authorChannelId": {
+              "value": "UCUJF2aXReuzADJ-cuJqaOzw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T11:38:40Z",
+            "updatedAt": "2021-06-11T11:38:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WXhIl-so1xq-Mp8TXYFT1LWQCCI",
+      "id": "Ugz5ou1cBv6rhAAmDPt4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vvnNwVQHH7oDp7BgmFel7VGUFaY",
+          "id": "Ugz5ou1cBv6rhAAmDPt4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ไม่นะ RUOK",
+            "textOriginal": "ไม่นะ RUOK",
+            "authorDisplayName": "OZON TV",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/MQjfwPBj6SUl-uLpRTSjOh8rXNJeX0KNzNDr0NOSAEdBY4A8udR4ugvpf4vOEZMGSFhOveizRPI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCZQoa6QPatcca6_aCOrAA3Q",
+            "authorChannelId": {
+              "value": "UCZQoa6QPatcca6_aCOrAA3Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T10:53:33Z",
+            "updatedAt": "2021-06-11T10:53:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "lHmFVoh9x778uizgpz7s84jp2X4",
+      "id": "UgyYHyJJPY1PLEZE9Mh4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "nT4VL7BhwsIurZotBFmGIG40tGs",
+          "id": "UgyYHyJJPY1PLEZE9Mh4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ผมจะเปิดความคิดเห็นด้านใหม่ๆที่คนอื่นไม่รู้ สถาบันนี้เพิ่งเริ่มรุนแรงมาตอนรุ่น60 รุ่นแรกๆไม่มีความรุนแรง และสถาบันนี้มีเด็กช่างในกรุงเทพและต่างจังหวัดมาเข้าเรียน พวกเด็กในกทม.เป็นเด็กหัวรุนแรงอยู่แล้วเลยชอบเพราะเป็นที่1ของสายด้านก่อสร้างแห่งแรกพวกเด็กตจว.ส่วนมากจะไม่ค่อยรู้ว่ามีความรุนแรงแบบนี้ บางส่วนก็รู้อยู่แล้ว มีนศ.เข้า100 อยู่ได้ละ50-60คนที่เหลือรับระบบไม่ไหว ปัญหาคือมันไม่คุยกับน้องว่าน้องเป็นไรแล้วแค่ตอบไม่ได้นี้ถึงขั้นเตะเลยมันเกินไปจริงๆ",
+            "textOriginal": "ผมจะเปิดความคิดเห็นด้านใหม่ๆที่คนอื่นไม่รู้ สถาบันนี้เพิ่งเริ่มรุนแรงมาตอนรุ่น60 รุ่นแรกๆไม่มีความรุนแรง และสถาบันนี้มีเด็กช่างในกรุงเทพและต่างจังหวัดมาเข้าเรียน พวกเด็กในกทม.เป็นเด็กหัวรุนแรงอยู่แล้วเลยชอบเพราะเป็นที่1ของสายด้านก่อสร้างแห่งแรกพวกเด็กตจว.ส่วนมากจะไม่ค่อยรู้ว่ามีความรุนแรงแบบนี้ บางส่วนก็รู้อยู่แล้ว มีนศ.เข้า100 อยู่ได้ละ50-60คนที่เหลือรับระบบไม่ไหว ปัญหาคือมันไม่คุยกับน้องว่าน้องเป็นไรแล้วแค่ตอบไม่ได้นี้ถึงขั้นเตะเลยมันเกินไปจริงๆ",
+            "authorDisplayName": "Anarchism • 108 ปีที่ผ่านมา",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR5M6Xcy88BTZXFlb2FY3XuCjRYrwfPYWILxia-4VM=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCSbE8QvRT5i4tH0XoVJQeNw",
+            "authorChannelId": {
+              "value": "UCSbE8QvRT5i4tH0XoVJQeNw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T09:24:01Z",
+            "updatedAt": "2021-06-11T09:24:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "S0dgyCtVXlhQalmwQzElz5pqbcA",
+      "id": "UgwNWrtCh8rlsUJGf5h4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xiO4qIgdufTuE8qmY0C06QWsdS0",
+          "id": "UgwNWrtCh8rlsUJGf5h4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "พี่คะ ซ้อมไม้โทค่ะ🥺✨",
+            "textOriginal": "พี่คะ ซ้อมไม้โทค่ะ🥺✨",
+            "authorDisplayName": "Normal Human",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQZv7YVCeJ0pFGbEFfzw5CbZUG8b62kQMcDyiM7=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCLXlAEZ25EZmPdOZkDr7-mg",
+            "authorChannelId": {
+              "value": "UCLXlAEZ25EZmPdOZkDr7-mg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T09:15:34Z",
+            "updatedAt": "2021-06-11T09:15:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "l76hPbwYE_ApVAC5L1lxbbuuVF0",
+      "id": "Ugzlz3y0Bx_4PIEo-8J4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "5g1eN6FaKBj7RH8gHi5MZgIBObw",
+          "id": "Ugzlz3y0Bx_4PIEo-8J4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ครอบครัวเค้าสูญเสียเเต่โทษสูงสุดคือไล่ออก เเล้วครอบครัวที่สูญเสียเค้าจะได้อะไร ได้ความเป็นธรรมอะไร คนๆหนึ่งเสียชีวิต ไปกับการรับน้องที่มีค่านิยมเเบบผิดๆ<br>&quot;พวกขยะสมควรประหารมันไปซะก็ดี&quot;",
+            "textOriginal": "ครอบครัวเค้าสูญเสียเเต่โทษสูงสุดคือไล่ออก เเล้วครอบครัวที่สูญเสียเค้าจะได้อะไร ได้ความเป็นธรรมอะไร คนๆหนึ่งเสียชีวิต ไปกับการรับน้องที่มีค่านิยมเเบบผิดๆ\n\"พวกขยะสมควรประหารมันไปซะก็ดี\"",
+            "authorDisplayName": "ปิยวัฒน์ นิราชภัย",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRORghU2lxunc_WBChm98nosQfl1ndkX4ZZv5ijxw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCmSEC_2A9CkSdh29VsL7i4A",
+            "authorChannelId": {
+              "value": "UCmSEC_2A9CkSdh29VsL7i4A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T08:47:23Z",
+            "updatedAt": "2021-06-11T08:54:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "W0kQl0Qx5NeF_ZkLPmuEyFkE7kw",
+      "id": "Ugx6S5z6SbDMAOCN9S14AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Bp2sFQQSDD7reOpRH-o3TECMu80",
+          "id": "Ugx6S5z6SbDMAOCN9S14AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ทวยหัวเคน  ฆ่าน้องอีกแล้ว",
+            "textOriginal": "ทวยหัวเคน  ฆ่าน้องอีกแล้ว",
+            "authorDisplayName": "ประหยัด จันทร์โอเลี้ยง",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGaf3UN1CFE6hirm4E0e2NwBrwnHyE71zISw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC8vgP9s6eCaHjXdiET6O6FA",
+            "authorChannelId": {
+              "value": "UC8vgP9s6eCaHjXdiET6O6FA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T07:42:38Z",
+            "updatedAt": "2021-06-11T07:42:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "r4xSvyyN3vlCyDc1NxXPalSzxQ0",
+      "id": "Ugzj1F1Iozk7KLw4xIp4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "X8Pz0pJHThY8mwjItwUvAPORdSI",
+          "id": "Ugzj1F1Iozk7KLw4xIp4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "นานิ!!!!!Ripหลับให้สบายน้องปลื้ม<br>ToT ×_× T_T :( =3=",
+            "textOriginal": "นานิ!!!!!Ripหลับให้สบายน้องปลื้ม\nToT ×_× T_T :( =3=",
+            "authorDisplayName": "💗Glue World💗",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/SLYKZ3lcus6uqfteokjcbzt0PB5grtTyGCJ10i6ChhjH5oHUTsnuIUm4LBuSt8Gd84fPkHVT=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UClGNn1aKdFw9bD1jprHWMnQ",
+            "authorChannelId": {
+              "value": "UClGNn1aKdFw9bD1jprHWMnQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T07:18:28Z",
+            "updatedAt": "2021-06-11T07:18:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "m8CuW95QihD9OQ4x0Oy-tYPLL0c",
+      "id": "UgwKxZDTu-73AwmDafF4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "OKXmY62jrB_Zefm6lNlT7fXTZCY",
+          "id": "UgwKxZDTu-73AwmDafF4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "สงสารน้องปลื้มมากๆเลย อนาคตน้องยังมี แต่มันจบลงเพราะ รุ่นพี่แบ่งกลุ่มหนึ่ง แบบนี้มันคือการฆาตกรรมโดยไม่ไตร่ตรองไว้ก่อนแล้วรึเปล่า",
+            "textOriginal": "สงสารน้องปลื้มมากๆเลย อนาคตน้องยังมี แต่มันจบลงเพราะ รุ่นพี่แบ่งกลุ่มหนึ่ง แบบนี้มันคือการฆาตกรรมโดยไม่ไตร่ตรองไว้ก่อนแล้วรึเปล่า",
+            "authorDisplayName": "YUMI Senaniko",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRlUtRZkruSEnev5PcQmYlCTqrJYyebgjaZFj4ujJM=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC8Fhfh1j-Z6p9yqGkHEaDEw",
+            "authorChannelId": {
+              "value": "UC8Fhfh1j-Z6p9yqGkHEaDEw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T07:14:22Z",
+            "updatedAt": "2021-06-11T07:14:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "l42EYfE5nL7Kr1bMs1uK1whnuDk",
+      "id": "UgyYAtVZX64417a3f1J4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "MPvhGJiWS_cXz3Vko2iUna7EPr8",
+          "id": "UgyYAtVZX64417a3f1J4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "พึ่งเจอข่าวในtvเมื่อเช้า",
+            "textOriginal": "พึ่งเจอข่าวในtvเมื่อเช้า",
+            "authorDisplayName": "Dragon Play",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/XEoBf24nJjneQBCQFRhSJap9IN11_LT8KtWO_Dxu7dU7hQnDdvDKxiIE8utPxE-dcCN_PHee1w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjVjKCv5oqCvnFn6fAAm4Fw",
+            "authorChannelId": {
+              "value": "UCjVjKCv5oqCvnFn6fAAm4Fw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T06:43:16Z",
+            "updatedAt": "2021-06-11T06:43:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "mZFX16uWr_cCSkbYwp4RHF2RIdU",
+      "id": "UgyrlB0fKoE9l-6sCgd4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "V3ZW8ggA0QJsLjQOY92FbrfzT20",
+          "id": "UgyrlB0fKoE9l-6sCgd4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "เชื่อมัยเดียวปีหน้าก็มีข้าวแบบนี้<br>คือถ้าร.ร.ไหนมีข้าวรับน้องโหดก็ควรปิดไปเถอะ",
+            "textOriginal": "เชื่อมัยเดียวปีหน้าก็มีข้าวแบบนี้\nคือถ้าร.ร.ไหนมีข้าวรับน้องโหดก็ควรปิดไปเถอะ",
+            "authorDisplayName": "Agust224",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFSsr2tTg0fYuFuapm5zdiSgxc8PYjHzbAEnviLw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCsI_vMMGL0Bb9dMf4xWDfhA",
+            "authorChannelId": {
+              "value": "UCsI_vMMGL0Bb9dMf4xWDfhA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T06:29:12Z",
+            "updatedAt": "2021-06-11T06:29:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "KsQDF7X0GdR4eyXeOig65MDJ9iY",
+      "id": "UgxtcnLToMOGP9CVytp4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "gxKxtMeuJkWzK9bXRaUc-Yj5lCQ",
+          "id": "UgxtcnLToMOGP9CVytp4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ดีนะที่รุ่นพี่ผมไม่เป็นแบบนี้",
+            "textOriginal": "ดีนะที่รุ่นพี่ผมไม่เป็นแบบนี้",
+            "authorDisplayName": "FiA KiA",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/9zbOZiHlOnuAeQCqPmxH1mR3t6M5OdLLDlNXp8w-U7UotArj0CKBCOXZoxKcTaNQW5xY9rJsRSo=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCNbhv-jSI4jvm0jACZh_vnA",
+            "authorChannelId": {
+              "value": "UCNbhv-jSI4jvm0jACZh_vnA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T05:47:04Z",
+            "updatedAt": "2021-06-11T05:47:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "_JerJan3CqBMTe5kGhJLJoI9AeM",
+      "id": "UgzgaHxN6KRGWYyMcjp4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "eSKFG3dEXljcTo9wchh1vCqtcAM",
+          "id": "UgzgaHxN6KRGWYyMcjp4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "เจอพระไม่เป็นไร แต่เจอรุ่นพี่ “มึงต้องไหว้” วะฮ่ะๆๆๆๆๆๆ",
+            "textOriginal": "เจอพระไม่เป็นไร แต่เจอรุ่นพี่ “มึงต้องไหว้” วะฮ่ะๆๆๆๆๆๆ",
+            "authorDisplayName": "Seraphine Lol",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/fXrNBN3ma63PAnb3zt4UEqioN8I487kaE2Gu8w116B6OZO75ZJ9Rdi7glpT3OVlAJh0-a7_w8IM=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCErn3kpD_MSXeLnKykP2A0w",
+            "authorChannelId": {
+              "value": "UCErn3kpD_MSXeLnKykP2A0w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-06-11T05:23:55Z",
+            "updatedAt": "2021-06-11T05:23:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-YYdEf1XBVN_3k6R3J4gIeAfTVE",
+      "id": "UgwIQIGQXaYxL_cPJLd4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "3DVRAk16j-l6FlzfVG3yKkLecZo",
+          "id": "UgwIQIGQXaYxL_cPJLd4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "เจอข่าวแบบนี้แล้วหัวร้อนตลอดเลย ทำไมมันยังมีอยู่",
+            "textOriginal": "เจอข่าวแบบนี้แล้วหัวร้อนตลอดเลย ทำไมมันยังมีอยู่",
+            "authorDisplayName": "wave kodchawong",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT1xzoI_v9mlbAIcz91kpKTm1QkA-KeL50yYmwTjw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCWXuI2mJ2jR8m6yvzVqZt9g",
+            "authorChannelId": {
+              "value": "UCWXuI2mJ2jR8m6yvzVqZt9g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T04:35:04Z",
+            "updatedAt": "2021-06-11T04:35:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Ad7G8rIMdns0a9aPb8JVkEn6aR8",
+      "id": "UgwRneSlSf1jCLzVX0R4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "F_Uk4mFplwvTwnsOuSfGU4KcItQ",
+          "id": "UgwRneSlSf1jCLzVX0R4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "คนทำมันมีองค์มีของ",
+            "textOriginal": "คนทำมันมีองค์มีของ",
+            "authorDisplayName": "Investor Man",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/L6yjsAP3WTOR9exmz0P31rZ0Unl6dFYIjdEFqW_Rubx8qSl2YCacAYdKmVK7hEQ0SB-IP51SFTE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqy6HBoNlqFGa7LJnm2OYHg",
+            "authorChannelId": {
+              "value": "UCqy6HBoNlqFGa7LJnm2OYHg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T04:31:30Z",
+            "updatedAt": "2021-06-11T04:31:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "UqiH0f6SrIIERiBnIGP6BERFXHo",
+      "id": "UgzE0Wo6jKTdAtudzLB4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xnxx3nQy2eLZtlgg_B1U_e3tzbQ",
+          "id": "UgzE0Wo6jKTdAtudzLB4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ใดๆคือความจริงมันปิดได้อีกไม่นานหรอกนะ หลักฐานชัดขนาดนี้ ช่วยกันปิดก็ถือว่าเป็นผู้สมรู้ร่วมคิดแล้ว เลิกเถอะการรับน้องแบบนี้ไม่ได้ทำให้อะไรดีเลยมีแต่แย่กับแย่",
+            "textOriginal": "ใดๆคือความจริงมันปิดได้อีกไม่นานหรอกนะ หลักฐานชัดขนาดนี้ ช่วยกันปิดก็ถือว่าเป็นผู้สมรู้ร่วมคิดแล้ว เลิกเถอะการรับน้องแบบนี้ไม่ได้ทำให้อะไรดีเลยมีแต่แย่กับแย่",
+            "authorDisplayName": "Blue Hydrengea Whale",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQTyUBxIVzL4iSY5vqLV_bLn9VD6yuq9vHnb_N68kI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCOOfkyB1amXAOrabf4SMf6g",
+            "authorChannelId": {
+              "value": "UCOOfkyB1amXAOrabf4SMf6g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T04:21:14Z",
+            "updatedAt": "2021-06-11T04:21:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xl1ZkonwiGSsZrJz7tpgA5dhfsA",
+      "id": "UgzFFMXbZlkcMunIpQZ4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ibdaWL45J0x9NFwWEjxz0e1b4Xs",
+          "id": "UgzFFMXbZlkcMunIpQZ4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "หวังว่าจะโดนประหารนะคะ ถ้าแค่ติดคุกค่อยอ่าเลย โสโครก",
+            "textOriginal": "หวังว่าจะโดนประหารนะคะ ถ้าแค่ติดคุกค่อยอ่าเลย โสโครก",
+            "authorDisplayName": "exclair",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/hbIiQjIHKX1PV7tAmleWYvWWpvC6DLL6rFRanUhuEI6XuIMEv6XioBqUNQMwOJvxJQusYkhLCP8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdbG8qbdjncNjeWJWyyKtjA",
+            "authorChannelId": {
+              "value": "UCdbG8qbdjncNjeWJWyyKtjA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T03:41:30Z",
+            "updatedAt": "2021-06-11T03:41:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "tktHYVhlxdPLvMXI2pSpNRMNdl4",
+      "id": "Ugz5twbbmNMGtkPy3El4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "nne4dCT4Tx0_ZPI8RYzvhhRG_1M",
+          "id": "Ugz5twbbmNMGtkPy3El4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ถ้าเราเป็นรุ่นพี่ เราอยากให้น้องเคารพเรา ด้วยใจจริง หรือ เพราะความกลัว?",
+            "textOriginal": "ถ้าเราเป็นรุ่นพี่ เราอยากให้น้องเคารพเรา ด้วยใจจริง หรือ เพราะความกลัว?",
+            "authorDisplayName": "Achi Kjr",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQkbRDaJrP_6xzh5D1CKDZUJzpo_xwDFslayA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6CffDUCGqiUupcGmuSwqlw",
+            "authorChannelId": {
+              "value": "UC6CffDUCGqiUupcGmuSwqlw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T03:31:04Z",
+            "updatedAt": "2021-06-11T03:31:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "4864YQdtMssFfSZH8llAZHHTx5Q",
+      "id": "UgzCvJBC05RVwWqqGgZ4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "uIVzfvPItdTrHzS5SR2p1O3ysYY",
+          "id": "UgzCvJBC05RVwWqqGgZ4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ประหารให้หมดครับ",
+            "textOriginal": "ประหารให้หมดครับ",
+            "authorDisplayName": "Diamond Capitol",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/I_UQf2E3hV5R4C1givbuLo5B0v5FEq07bk8UxdG7tv5BCfZj-qCMhcYy2PNjBlroaF-2YpQA1w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UClRy0VHkgY0zuK4CvlxBR7Q",
+            "authorChannelId": {
+              "value": "UClRy0VHkgY0zuK4CvlxBR7Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T03:09:21Z",
+            "updatedAt": "2021-06-11T03:09:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "p3YGg9i2vsmTF6j7DOKalYJSCBg",
+      "id": "UgwevXWWEFU3vtph-V94AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dzK7SmZlPiENKfwgjzf5-8-oM1Q",
+          "id": "UgwevXWWEFU3vtph-V94AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "เจตนาฆ่า เป็นคดีร้ายแรง จำคุกตลอดชีวิต อาจจะโดนยำตีนจนตาย ก่อนขึ้นศาลตัดสินคดี",
+            "textOriginal": "เจตนาฆ่า เป็นคดีร้ายแรง จำคุกตลอดชีวิต อาจจะโดนยำตีนจนตาย ก่อนขึ้นศาลตัดสินคดี",
+            "authorDisplayName": "chingwajang carazaki",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSwvLlnbRe3G-uEtDgIIDiG1UXLbHkq37xIeuVLuVs=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC9iYqOyly1UmsfmQzTT5X7w",
+            "authorChannelId": {
+              "value": "UC9iYqOyly1UmsfmQzTT5X7w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T03:01:25Z",
+            "updatedAt": "2021-06-11T03:01:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "BlyWFMoh-gyzH91hSwVpjgeAq6s",
+      "id": "UgyFTQDkQbWRkFgagCx4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_aZYrBkpel8kE8k1tGVig-bKz6Q",
+          "id": "UgyFTQDkQbWRkFgagCx4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "โรงเรียนพวกมึงควรเลิกรับน้องได้หละ",
+            "textOriginal": "โรงเรียนพวกมึงควรเลิกรับน้องได้หละ",
+            "authorDisplayName": "ZheZaa Haku",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRWk7F5bRv03am-Pl_1fKuCl6ifbBOarTftt-kaAA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtH7LWMKAuLd8vBKPg76-zA",
+            "authorChannelId": {
+              "value": "UCtH7LWMKAuLd8vBKPg76-zA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T02:48:34Z",
+            "updatedAt": "2021-06-11T02:48:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Oz6h8UXCpvFoddliUgTcrZv2vq8",
+      "id": "Ugwz7yPemDyzsxVCYYV4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "56-b857VHzSQId9sIBUiE9OeuAk",
+          "id": "Ugwz7yPemDyzsxVCYYV4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ท่ารู้ว่ารุ่นพี่จะกระทืบเราเราก็ชิงฆ่ารุ่นพี่ก่อนไงกระทืบรุ่นพี่ก็ได้หรือพกมีดไปฆ่ารุ่นพี่",
+            "textOriginal": "ท่ารู้ว่ารุ่นพี่จะกระทืบเราเราก็ชิงฆ่ารุ่นพี่ก่อนไงกระทืบรุ่นพี่ก็ได้หรือพกมีดไปฆ่ารุ่นพี่",
+            "authorDisplayName": "YGg uhhh",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkn2Y-JJJ2MUjkCd8heUxPJZNo5C7SzRTl-A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCoOm4HDyq3K-0y0UaImEhzg",
+            "authorChannelId": {
+              "value": "UCoOm4HDyq3K-0y0UaImEhzg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T02:25:45Z",
+            "updatedAt": "2021-06-11T02:25:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "lfz8VKBa7JWbvqpWcMjsniku2ts",
+      "id": "UgxCTFoRxEjYz1oE9nF4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lN3pCfW19E3tQVd46Px4XnRioZ8",
+          "id": "UgxCTFoRxEjYz1oE9nF4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "หดหู่เลยเห้ออ",
+            "textOriginal": "หดหู่เลยเห้ออ",
+            "authorDisplayName": "โบ้ 'บ",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFC6JdugrztD4tpUL74pLUrtGAUIY9Yeyntk7Mzw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCflv8dXiB-c7jSu0iCCvdvg",
+            "authorChannelId": {
+              "value": "UCflv8dXiB-c7jSu0iCCvdvg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-06-11T02:02:26Z",
+            "updatedAt": "2021-06-11T02:02:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cVgMiDZBUq1nzGm9bVp2wFV5j2o",
+      "id": "UgzwO9Z-Q-orFwJOVzl4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "hIHnKbntE7iU_qsDBKi4jFTQ84E",
+          "id": "UgzwO9Z-Q-orFwJOVzl4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ถ้าไม่เคยโดนมาก่อนก็ไม่ควรจะมาทำแบบนี้<br>แต่ถ้าถึงเคยมาก่อนก็ต้องรู้ว่าความรู้สึกมันเป็นยังไงไม่ควรทำ",
+            "textOriginal": "ถ้าไม่เคยโดนมาก่อนก็ไม่ควรจะมาทำแบบนี้\nแต่ถ้าถึงเคยมาก่อนก็ต้องรู้ว่าความรู้สึกมันเป็นยังไงไม่ควรทำ",
+            "authorDisplayName": "ยืนงง ในดง",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQVspK-3iXG-8TdLQ9h98T15R67E87Oxp_TsgwNyQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtMPAk78boKkpggMEkacpcQ",
+            "authorChannelId": {
+              "value": "UCtMPAk78boKkpggMEkacpcQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T01:37:40Z",
+            "updatedAt": "2021-06-11T01:37:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Kg1Ug8Q2v1Dam38NuhKbQktzSqo",
+      "id": "UgygZSSRYJFFrrQUxH14AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "0XBr1KInsUlRIc002TTf5QPnpW4",
+          "id": "UgygZSSRYJFFrrQUxH14AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "มีวิธีที่อื่น รับน้องตั้งเยอะแยะ มึงก็ยังทำตัวล่างๆ ควายๆ ไม่เข้าใจจริงๆเลย ทำแล้วได้อะไร ได้เงินเหรอ ได้ความสะใจเหรอ ก็เข้าใจละว่าต้องการทำโทษ แต่นี่คือหนักเกินไปโรงเรียนกูนี่เอาแป้งมามาปาใส่หน้า เต้นบ้าง<br>เป็นการทำโทษ กูละอย่างชอบการรับน้องสมัยนี้&gt;:(",
+            "textOriginal": "มีวิธีที่อื่น รับน้องตั้งเยอะแยะ มึงก็ยังทำตัวล่างๆ ควายๆ ไม่เข้าใจจริงๆเลย ทำแล้วได้อะไร ได้เงินเหรอ ได้ความสะใจเหรอ ก็เข้าใจละว่าต้องการทำโทษ แต่นี่คือหนักเกินไปโรงเรียนกูนี่เอาแป้งมามาปาใส่หน้า เต้นบ้าง\nเป็นการทำโทษ กูละอย่างชอบการรับน้องสมัยนี้>:(",
+            "authorDisplayName": "มะเร็งyasuo",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/VKrOg-jOsjtwj-xi1kAVIz3nVUaahXLyqjgYC13E6NiPbWXap81hwVNoBn2J1V57UEWp57D0=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMHx-90M58OWYg3EJAd-Qcg",
+            "authorChannelId": {
+              "value": "UCMHx-90M58OWYg3EJAd-Qcg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T01:32:01Z",
+            "updatedAt": "2021-06-11T01:32:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "d5xIyNmmZweyiS0yaYNoF3gT8Hs",
+      "id": "UgyFkdcSSfFFo6DexTt4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "OO3kTWrcXddD16n7b72gVph9GBI",
+          "id": "UgyFkdcSSfFFo6DexTt4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ขอให้เหตุการณ์ของพี่ปลื้ม เป็นเหตุการณ์สุดท้ายด้วยเถอะ.....เสียใจกับครอบครัวพี่ปลื้มด้วยนะครับ",
+            "textOriginal": "ขอให้เหตุการณ์ของพี่ปลื้ม เป็นเหตุการณ์สุดท้ายด้วยเถอะ.....เสียใจกับครอบครัวพี่ปลื้มด้วยนะครับ",
+            "authorDisplayName": "Cho Theerapat",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8_Ksb4vpY_jFuwzaqBiu_McneKFSZqulVxoSWdA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC7IpX7lcV5sgYYOo1f19eGQ",
+            "authorChannelId": {
+              "value": "UC7IpX7lcV5sgYYOo1f19eGQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T01:15:14Z",
+            "updatedAt": "2021-06-11T01:15:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "jvxPiYwQXBXqXCfOSVPdQvzJzvg",
+      "id": "Ugx48uVm6JM3ayQquax4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "e-hBt-6oyBNhL2Q3bnHE0z7bWnI",
+          "id": "Ugx48uVm6JM3ayQquax4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "มันยังมีอีกเหรอรับน้องแบบนี้",
+            "textOriginal": "มันยังมีอีกเหรอรับน้องแบบนี้",
+            "authorDisplayName": "Nannight Tv",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSygwY8fMYwKD8eacSIBKITro0BkGs3Xj8Uu-KD6g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtCQhH4HsdjL5pP8GlGiqkQ",
+            "authorChannelId": {
+              "value": "UCtCQhH4HsdjL5pP8GlGiqkQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T00:39:05Z",
+            "updatedAt": "2021-06-11T00:39:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "QQykjH_Y9fP_enAv7M9Dxp0LSp4",
+      "id": "UgzNYC-1aD_BCEpIWGZ4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "fRX9ROqzt2NF4T4DP8yYFzXTXIY",
+          "id": "UgzNYC-1aD_BCEpIWGZ4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ความทุเรศ ของคำว่า&quot;รุ่นพี่&quot;<br><br>แต่นับถือรุ่นพี่ของรุ่นพี่ในเรื่องนี้อีกทีอยู่ที่คิดได้",
+            "textOriginal": "ความทุเรศ ของคำว่า\"รุ่นพี่\"\n\nแต่นับถือรุ่นพี่ของรุ่นพี่ในเรื่องนี้อีกทีอยู่ที่คิดได้",
+            "authorDisplayName": "XkitGame",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/hIF1hKBxxeEgfY6nOeQ24CVgpYi6WS_DG2h7HplchKlglDTt9q3P4_00UvWxAC9yYIunZAs5vw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCL5vv71KQnmAOoKMNqgzLhQ",
+            "authorChannelId": {
+              "value": "UCL5vv71KQnmAOoKMNqgzLhQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T00:38:16Z",
+            "updatedAt": "2021-06-11T00:43:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5CMTnrp1Szvmj5RCf8jq7aAzAec",
+      "id": "Ugw-l-6CAguPSukDJHh4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "EV3aNCanjWmWl7LMbvE-T_DNF30",
+          "id": "Ugw-l-6CAguPSukDJHh4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ประหารเถอะ",
+            "textOriginal": "ประหารเถอะ",
+            "authorDisplayName": "ธามไลน์",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQL07-9AsIZwvhJnFtXtqPtVgopvKggCySKvFhZprnGrA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC8i4EXa-KrQdATAqxT4gaYA",
+            "authorChannelId": {
+              "value": "UC8i4EXa-KrQdATAqxT4gaYA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-10T23:34:44Z",
+            "updatedAt": "2021-06-10T23:34:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0xndn7Lt9jvYVUCPqjJIgBiPc5A",
+      "id": "UgwFs6GfIQgJqy_K7nh4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "C6WaeUpcQRzc4-5B00VNuZL6f3E",
+          "id": "UgwFs6GfIQgJqy_K7nh4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ถามจริงต่อให้ไม่รู้ว่าน้องเขาจะอ่อนแอแค่ไหนก้ไม่ควรทำร้ายร่างกายอยู่ดีไหมอะอยากรับน้องมันมีวิธีอีกเยอะแยะไม่ได้มีวิธีเดียวนะอาจจะจิงว่ามันสนุกกว่าอันอื่นแต่อันอื่นก้สนุกสนุกคนละแบบว้ากน้องหรือรับน้องมันก้ไม่ควรมีแล้ว",
+            "textOriginal": "ถามจริงต่อให้ไม่รู้ว่าน้องเขาจะอ่อนแอแค่ไหนก้ไม่ควรทำร้ายร่างกายอยู่ดีไหมอะอยากรับน้องมันมีวิธีอีกเยอะแยะไม่ได้มีวิธีเดียวนะอาจจะจิงว่ามันสนุกกว่าอันอื่นแต่อันอื่นก้สนุกสนุกคนละแบบว้ากน้องหรือรับน้องมันก้ไม่ควรมีแล้ว",
+            "authorDisplayName": "Daikakung",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/LM4yVolEMufvjI2-3cnPOjA3xS_VVg7-fPuO0qC31_SFRWN_qV5xmipnplPm6gps2TN0QpJr=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCf5v2Dxq-xzEtZ9uLt6WKOQ",
+            "authorChannelId": {
+              "value": "UCf5v2Dxq-xzEtZ9uLt6WKOQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-10T21:53:00Z",
+            "updatedAt": "2021-06-10T21:54:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "EcIf4ZiWheSBR_awIw-VPVpJsWA",
+      "id": "UgyFV_kUnN9B8-p2oF14AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "J632t2nI9C-vL4OcKsesGwcqHWo",
+          "id": "UgyFV_kUnN9B8-p2oF14AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "สงสารน้อง โดนรุมตั้ง12คน 1ชม .ตอนนั้นคงทรมานมากอายุ22พ่อแม่คงหวังอีกไม่กี่ปีก็รับปริญญาแล้ว เสียเปล่าๆเลย22ปีที่เลี้ยงมา ขอให้พ่อแม่อย่ายอมนะเอาพวกนั้นให้หมดอนาคตใช้ชีวิตต่อไม่ได้อีก เหมือนกันให้สมกับที่มันทำกับลูกแม่ อย่าให้ตายฟรี",
+            "textOriginal": "สงสารน้อง โดนรุมตั้ง12คน 1ชม .ตอนนั้นคงทรมานมากอายุ22พ่อแม่คงหวังอีกไม่กี่ปีก็รับปริญญาแล้ว เสียเปล่าๆเลย22ปีที่เลี้ยงมา ขอให้พ่อแม่อย่ายอมนะเอาพวกนั้นให้หมดอนาคตใช้ชีวิตต่อไม่ได้อีก เหมือนกันให้สมกับที่มันทำกับลูกแม่ อย่าให้ตายฟรี",
+            "authorDisplayName": "clair de lune",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSJCPotK1_hcNwm5KSE-QH7Ych4799S_AnZag=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-A7n_8mtHsrDp7apcoCP6Q",
+            "authorChannelId": {
+              "value": "UC-A7n_8mtHsrDp7apcoCP6Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-10T19:46:37Z",
+            "updatedAt": "2021-06-10T19:50:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Qu4_kmJjC8B8yLVx1k65jibcRVc",
+      "id": "Ugx40awK6du3poQJcSx4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "tSxm2UlH9qpl2ap7sm8BEMzboJU",
+          "id": "Ugx40awK6du3poQJcSx4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "เห็นแล้วคืออุทานเลย  อีกแล้วหรอ  ยังไม่หมดไปอีกหรอ  คืองงมาก อะไรเนี่ย😢",
+            "textOriginal": "เห็นแล้วคืออุทานเลย  อีกแล้วหรอ  ยังไม่หมดไปอีกหรอ  คืองงมาก อะไรเนี่ย😢",
+            "authorDisplayName": "ศิฬิกันยา ลักสาพล",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSVj0mtMk-itXlIjFUgKypYqJBI-n-x8X2XIUXRRg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCzSvZbbi4k8PCXp-WvuSDfw",
+            "authorChannelId": {
+              "value": "UCzSvZbbi4k8PCXp-WvuSDfw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-10T19:33:30Z",
+            "updatedAt": "2021-06-10T19:33:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "gr9Q1U9x8iGRkL6lHNi0UKVAOgg",
+      "id": "Ugyax_S-ghfBzjUhHqN4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "PEaOjIguzEyEv-Cru-85OPnbbtQ",
+          "id": "Ugyax_S-ghfBzjUhHqN4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "มันน่าจะไปเตะพ่อเตะแม่มันนะ",
+            "textOriginal": "มันน่าจะไปเตะพ่อเตะแม่มันนะ",
+            "authorDisplayName": "สุเมธ สอสะอาด",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQI2vXlU2pzJVBMvrZIBLQdAjlN7vi0DaDv5g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCewxiu5AHe7b3i4p8md6ZTg",
+            "authorChannelId": {
+              "value": "UCewxiu5AHe7b3i4p8md6ZTg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-10T19:11:03Z",
+            "updatedAt": "2021-06-10T19:11:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8SRyR9PR0gjssJj_DRbRlz-ot7Y",
+      "id": "UgxGt3-83elcgUF_JxR4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "OXOA3wZXNg-oSPqsZteG27fZkqI",
+          "id": "UgxGt3-83elcgUF_JxR4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "โคตรแมนเลยบังคับเตะรุ่นน้อง อินทร ไม่ทีแบบนี้โว้ย เสียชื่อก่อสร้างชิบผาย",
+            "textOriginal": "โคตรแมนเลยบังคับเตะรุ่นน้อง อินทร ไม่ทีแบบนี้โว้ย เสียชื่อก่อสร้างชิบผาย",
+            "authorDisplayName": "I'am Indy v.2",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/WTH5OmjUOEcUUhn57Qci-9VYsAjy3njPCgIAbtdS4nCUhH2nESGGdRgelSfj7vnZ27uoozc3FVk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkJlaZXsFimkbduqaBe-A8w",
+            "authorChannelId": {
+              "value": "UCkJlaZXsFimkbduqaBe-A8w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-10T18:38:18Z",
+            "updatedAt": "2021-06-10T18:38:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Lf-YNgZQRZADlIyTCY1te4E09vo",
+      "id": "Ugxmoyth1cI731ISpJ94AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "4L0zyHXy9_mSPHOfVOaQZnjG-tY",
+          "id": "Ugxmoyth1cI731ISpJ94AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "เพิ่งดูข่าวไปเมื่อวานเอง😨",
+            "textOriginal": "เพิ่งดูข่าวไปเมื่อวานเอง😨",
+            "authorDisplayName": "Candy Sweet Ch.",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Oyv5QnMjtNCF1gJ8vwEyhixO4ZlNLaUOyfsZ_7uRfYfbv2XEDWnLqblARUk_GwT1dIvdccW4SYk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCSIjRmQTd8irFdFqDJJK_CQ",
+            "authorChannelId": {
+              "value": "UCSIjRmQTd8irFdFqDJJK_CQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-06-10T17:39:57Z",
+            "updatedAt": "2021-06-10T17:39:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "KH-5Bk59kctALC7lEIvzLr5ZUTk",
+      "id": "UgyoSxPHE4WLq6JFwFh4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "fN9q31rb0hx6ykKIo6mN3frEo1g",
+          "id": "UgyoSxPHE4WLq6JFwFh4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "เพิ่งดูแนนโน๊ะจบ ข่าวนี้ก็มาเลย",
+            "textOriginal": "เพิ่งดูแนนโน๊ะจบ ข่าวนี้ก็มาเลย",
+            "authorDisplayName": "กะเพราไก่ ใส่รากมะม่วง",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQttnoqiG1MYBMBtflztdyxBE5FrO-fRrFOqXUwbQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcgMFZJZEYjMi12vgpzjDjA",
+            "authorChannelId": {
+              "value": "UCcgMFZJZEYjMi12vgpzjDjA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-10T16:54:44Z",
+            "updatedAt": "2021-06-10T16:54:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cAV7KoewXDKgHcZN5BQb9gk8ljI",
+      "id": "Ugz0RopjWM-QeO6j_yB4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "eB3_x-Dmu-QI91XT0VYXrvdYbOE",
+          "id": "Ugz0RopjWM-QeO6j_yB4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "ผมอยากเจอจังเลยพวกรุ่นพี่เเบบนี้<a href=\"http://www.youtube.com/results?search_query=%23%E0%B8%9C%E0%B8%A1%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87%E0%B9%80%E0%B9%80%E0%B8%95%E0%B9%88%E0%B8%81%E0%B9%87%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AB%E0%B8%A1%E0%B8%94\">#ผมไม่เก่งเเต่ก็ได้หมด</a>😉",
+            "textOriginal": "ผมอยากเจอจังเลยพวกรุ่นพี่เเบบนี้#ผมไม่เก่งเเต่ก็ได้หมด😉",
+            "authorDisplayName": "Freshy DB-N",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/QWf7BgtBxzsPhLMKo65Jo-tRAdevuaptPivfOpUgvXCUR2E3QDus4CS5D7d3Dk7GbsCKzYoKLQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCTs1rfnqVjvhlfMETEqV61A",
+            "authorChannelId": {
+              "value": "UCTs1rfnqVjvhlfMETEqV61A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-06-10T15:56:14Z",
+            "updatedAt": "2021-06-10T15:56:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "J5COPTuqtMhQBZzajO2MmHXTX90",
+      "id": "UgzjRvLfNnt1X20ir-Z4AaABAg",
+      "snippet": {
+        "videoId": "MLTqFfqyrYw",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Lyau219nhvTlQEDtHrMFlOMq_G0",
+          "id": "UgzjRvLfNnt1X20ir-Z4AaABAg",
+          "snippet": {
+            "videoId": "MLTqFfqyrYw",
+            "textDisplay": "รุ่นพี่รับผิดชอบอะไรไหม ทำแบบนี้ไม่ต่างกับฆาตกรรมเลย",
+            "textOriginal": "รุ่นพี่รับผิดชอบอะไรไหม ทำแบบนี้ไม่ต่างกับฆาตกรรมเลย",
+            "authorDisplayName": "WiZs TKboom",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQJ6zorZ-bvNc85Vy7KYeprHhRBeTq3zemg_JKT=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCw54aaVCZWe61pRsHKyQxlw",
+            "authorChannelId": {
+              "value": "UCw54aaVCZWe61pRsHKyQxlw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-10T15:00:24Z",
+            "updatedAt": "2021-06-10T15:00:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}
