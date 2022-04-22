@@ -10,3 +10,10 @@ YouTube comment data using the YouTube API and classifying those comments into
 - using [deepcut](https://zenodo.org/record/3457707#.YcbmLGjP1PY)
 - Word tokenize
 - remove stopwords
+## Modelling
+- word embedding model
+- LSTM
+- LSTM 2
+## Model Evaluation
+- Confusion Metrix
+- Loss and Accuracy 
